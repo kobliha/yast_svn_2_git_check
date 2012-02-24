@@ -1,0 +1,1648 @@
+=============================================
+Fri Feb 24 15:10:07 CET 2012
+=============================================
+Processing "yast-OPENSSL.git"
+--------------------------------
+Cloning into yast-OPENSSL...
+warning: remote HEAD refers to nonexistent ref, unable to checkout.
+
+
+Checking yast-OPENSSL...
+fatal: bad default revision 'HEAD'
+- There are 0 branches
+- There are 1 tags
+- There are 0 commits in the current branch
+
+Processing "yast-SLE-11-WebYaST.git"
+--------------------------------
+Cloning into yast-SLE-11-WebYaST...
+warning: You appear to have cloned an empty repository.
+
+Checking yast-SLE-11-WebYaST...
+fatal: bad default revision 'HEAD'
+- There are 0 branches
+- There are 0 tags
+- There are 0 commits in the current branch
+
+Processing "yast-add-on-creator.git"
+--------------------------------
+Already up-to-date.
+
+Checking yast-add-on-creator...
+- There are 17 branches
+- There are 108 tags
+- There are 85 commits in the current branch
+
+Processing "yast-add-on.git"
+--------------------------------
+Already up-to-date.
+
+Checking yast-add-on...
+- There are 13 branches
+- There are 64 tags
+- There are 132 commits in the current branch
+
+Processing "yast-apparmor.git"
+--------------------------------
+Already up-to-date.
+
+Checking yast-apparmor...
+- There are 14 branches
+- There are 34 tags
+- There are 162 commits in the current branch
+
+Processing "yast-audit-laf.git"
+--------------------------------
+Already up-to-date.
+
+Checking yast-audit-laf...
+- There are 10 branches
+- There are 23 tags
+- There are 121 commits in the current branch
+
+Processing "yast-autofs.git"
+--------------------------------
+Already up-to-date.
+
+Checking yast-autofs...
+- There are 13 branches
+- There are 11 tags
+- There are 52 commits in the current branch
+
+Processing "yast-autoinstallation.git"
+--------------------------------
+Already up-to-date.
+
+Checking yast-autoinstallation...
+- There are 22 branches
+- There are 231 tags
+- There are 1841 commits in the current branch
+
+Processing "yast-backup.git"
+--------------------------------
+Already up-to-date.
+
+Checking yast-backup...
+- There are 23 branches
+- There are 60 tags
+- There are 364 commits in the current branch
+
+Processing "yast-bluetooth.git"
+--------------------------------
+Cloning into yast-bluetooth...
+warning: remote HEAD refers to nonexistent ref, unable to checkout.
+
+
+Checking yast-bluetooth...
+fatal: bad default revision 'HEAD'
+- There are 11 branches
+- There are 17 tags
+- There are 0 commits in the current branch
+
+Processing "yast-boot-server.git"
+--------------------------------
+Already up-to-date.
+
+Checking yast-boot-server...
+- There are 21 branches
+- There are 10 tags
+- There are 34 commits in the current branch
+
+Processing "yast-bootloader.git"
+--------------------------------
+Already up-to-date.
+
+Checking yast-bootloader...
+- There are 21 branches
+- There are 355 tags
+- There are 1590 commits in the current branch
+
+Processing "yast-branding.git"
+--------------------------------
+Already up-to-date.
+
+Checking yast-branding...
+- There are 9 branches
+- There are 0 tags
+- There are 5 commits in the current branch
+
+Processing "yast-build-test.git"
+--------------------------------
+Already up-to-date.
+
+Checking yast-build-test...
+- There are 21 branches
+- There are 1 tags
+- There are 32 commits in the current branch
+
+Processing "yast-ca-management.git"
+--------------------------------
+Already up-to-date.
+
+Checking yast-ca-management...
+- There are 22 branches
+- There are 98 tags
+- There are 530 commits in the current branch
+
+Processing "yast-cd-creator.git"
+--------------------------------
+Cloning into yast-cd-creator...
+warning: remote HEAD refers to nonexistent ref, unable to checkout.
+
+
+Checking yast-cd-creator...
+fatal: bad default revision 'HEAD'
+- There are 12 branches
+- There are 32 tags
+- There are 0 commits in the current branch
+
+Processing "yast-certify.git"
+--------------------------------
+Cloning into yast-certify...
+warning: remote HEAD refers to nonexistent ref, unable to checkout.
+
+
+Checking yast-certify...
+fatal: bad default revision 'HEAD'
+- There are 11 branches
+- There are 2 tags
+- There are 0 commits in the current branch
+
+Processing "yast-cim.git"
+--------------------------------
+Already up-to-date.
+
+Checking yast-cim...
+- There are 21 branches
+- There are 9 tags
+- There are 30 commits in the current branch
+
+Processing "yast-cluster.git"
+--------------------------------
+Already up-to-date.
+
+Checking yast-cluster...
+- There are 9 branches
+- There are 1 tags
+- There are 38 commits in the current branch
+
+Processing "yast-control-center-gnome.git"
+--------------------------------
+Already up-to-date.
+
+Checking yast-control-center-gnome...
+- There are 18 branches
+- There are 1 tags
+- There are 36 commits in the current branch
+
+Processing "yast-control-center.git"
+--------------------------------
+Already up-to-date.
+
+Checking yast-control-center...
+- There are 21 branches
+- There are 44 tags
+- There are 70 commits in the current branch
+
+Processing "yast-core.git"
+--------------------------------
+Already up-to-date.
+
+Checking yast-core...
+- There are 23 branches
+- There are 188 tags
+- There are 2434 commits in the current branch
+
+Processing "yast-country.git"
+--------------------------------
+Already up-to-date.
+
+Checking yast-country...
+- There are 22 branches
+- There are 277 tags
+- There are 705 commits in the current branch
+
+Processing "yast-databackup.git"
+--------------------------------
+Already up-to-date.
+
+Checking yast-databackup...
+- There are 21 branches
+- There are 1 tags
+- There are 1 commits in the current branch
+
+Processing "yast-db2.git"
+--------------------------------
+Cloning into yast-db2...
+warning: remote HEAD refers to nonexistent ref, unable to checkout.
+
+
+Checking yast-db2...
+fatal: bad default revision 'HEAD'
+- There are 0 branches
+- There are 1 tags
+- There are 0 commits in the current branch
+
+Processing "yast-dbus-client.git"
+--------------------------------
+Already up-to-date.
+
+Checking yast-dbus-client...
+- There are 3 branches
+- There are 0 tags
+- There are 1 commits in the current branch
+
+Processing "yast-dbus-server.git"
+--------------------------------
+Already up-to-date.
+
+Checking yast-dbus-server...
+- There are 3 branches
+- There are 0 tags
+- There are 1 commits in the current branch
+
+Processing "yast-debugger.git"
+--------------------------------
+Cloning into yast-debugger...
+warning: remote HEAD refers to nonexistent ref, unable to checkout.
+
+
+Checking yast-debugger...
+fatal: bad default revision 'HEAD'
+- There are 11 branches
+- There are 2 tags
+- There are 0 commits in the current branch
+
+Processing "yast-devtools.git"
+--------------------------------
+Already up-to-date.
+
+Checking yast-devtools...
+- There are 22 branches
+- There are 85 tags
+- There are 1000 commits in the current branch
+
+Processing "yast-dhcp-server.git"
+--------------------------------
+Already up-to-date.
+
+Checking yast-dhcp-server...
+- There are 22 branches
+- There are 44 tags
+- There are 253 commits in the current branch
+
+Processing "yast-dirinstall.git"
+--------------------------------
+Already up-to-date.
+
+Checking yast-dirinstall...
+- There are 11 branches
+- There are 13 tags
+- There are 34 commits in the current branch
+
+Processing "yast-dns-server.git"
+--------------------------------
+Already up-to-date.
+
+Checking yast-dns-server...
+- There are 23 branches
+- There are 80 tags
+- There are 331 commits in the current branch
+
+Processing "yast-doc.git"
+--------------------------------
+Already up-to-date.
+
+Checking yast-doc...
+- There are 10 branches
+- There are 0 tags
+- There are 33 commits in the current branch
+
+Processing "yast-drbd.git"
+--------------------------------
+Already up-to-date.
+
+Checking yast-drbd...
+- There are 7 branches
+- There are 0 tags
+- There are 5 commits in the current branch
+
+Processing "yast-extra-packages.git"
+--------------------------------
+Already up-to-date.
+
+Checking yast-extra-packages...
+- There are 3 branches
+- There are 0 tags
+- There are 57 commits in the current branch
+
+Processing "yast-fax-server.git"
+--------------------------------
+Cloning into yast-fax-server...
+warning: remote HEAD refers to nonexistent ref, unable to checkout.
+
+
+Checking yast-fax-server...
+fatal: bad default revision 'HEAD'
+- There are 17 branches
+- There are 2 tags
+- There are 0 commits in the current branch
+
+Processing "yast-faxserver.git"
+--------------------------------
+Cloning into yast-faxserver...
+warning: remote HEAD refers to nonexistent ref, unable to checkout.
+
+
+Checking yast-faxserver...
+fatal: bad default revision 'HEAD'
+- There are 0 branches
+- There are 1 tags
+- There are 0 commits in the current branch
+
+Processing "yast-fcoe-client.git"
+--------------------------------
+Already up-to-date.
+
+Checking yast-fcoe-client...
+- There are 5 branches
+- There are 40 tags
+- There are 131 commits in the current branch
+
+Processing "yast-fingerprint-reader.git"
+--------------------------------
+Already up-to-date.
+
+Checking yast-fingerprint-reader...
+- There are 16 branches
+- There are 33 tags
+- There are 67 commits in the current branch
+
+Processing "yast-firewall.git"
+--------------------------------
+Already up-to-date.
+
+Checking yast-firewall...
+- There are 22 branches
+- There are 65 tags
+- There are 355 commits in the current branch
+
+Processing "yast-firewallcd-admin.git"
+--------------------------------
+Cloning into yast-firewallcd-admin...
+warning: remote HEAD refers to nonexistent ref, unable to checkout.
+
+
+Checking yast-firewallcd-admin...
+fatal: bad default revision 'HEAD'
+- There are 0 branches
+- There are 2 tags
+- There are 0 commits in the current branch
+
+Processing "yast-firstboot.git"
+--------------------------------
+Already up-to-date.
+
+Checking yast-firstboot...
+- There are 21 branches
+- There are 69 tags
+- There are 116 commits in the current branch
+
+Processing "yast-ftp-server.git"
+--------------------------------
+Already up-to-date.
+
+Checking yast-ftp-server...
+- There are 13 branches
+- There are 25 tags
+- There are 86 commits in the current branch
+
+Processing "yast-gtk.git"
+--------------------------------
+Already up-to-date.
+
+Checking yast-gtk...
+- There are 13 branches
+- There are 157 tags
+- There are 1402 commits in the current branch
+
+Processing "yast-hardware-detection.git"
+--------------------------------
+Already up-to-date.
+
+Checking yast-hardware-detection...
+- There are 19 branches
+- There are 24 tags
+- There are 58 commits in the current branch
+
+Processing "yast-heartbeat.git"
+--------------------------------
+Already up-to-date.
+
+Checking yast-heartbeat...
+- There are 21 branches
+- There are 21 tags
+- There are 70 commits in the current branch
+
+Processing "yast-hpc.git"
+--------------------------------
+Cloning into yast-hpc...
+warning: remote HEAD refers to nonexistent ref, unable to checkout.
+
+
+Checking yast-hpc...
+fatal: bad default revision 'HEAD'
+- There are 1 branches
+- There are 1 tags
+- There are 0 commits in the current branch
+
+Processing "yast-http-server.git"
+--------------------------------
+Already up-to-date.
+
+Checking yast-http-server...
+- There are 22 branches
+- There are 116 tags
+- There are 440 commits in the current branch
+
+Processing "yast-inetd.git"
+--------------------------------
+Already up-to-date.
+
+Checking yast-inetd...
+- There are 21 branches
+- There are 38 tags
+- There are 415 commits in the current branch
+
+Processing "yast-installation-sources.git"
+--------------------------------
+Cloning into yast-installation-sources...
+warning: remote HEAD refers to nonexistent ref, unable to checkout.
+
+
+Checking yast-installation-sources...
+fatal: bad default revision 'HEAD'
+- There are 0 branches
+- There are 1 tags
+- There are 0 commits in the current branch
+
+Processing "yast-installation.git"
+--------------------------------
+Already up-to-date.
+
+Checking yast-installation...
+- There are 23 branches
+- There are 545 tags
+- There are 2700 commits in the current branch
+
+Processing "yast-installer.git"
+--------------------------------
+Cloning into yast-installer...
+warning: You appear to have cloned an empty repository.
+
+Checking yast-installer...
+fatal: bad default revision 'HEAD'
+- There are 0 branches
+- There are 0 tags
+- There are 0 commits in the current branch
+
+Processing "yast-instserver.git"
+--------------------------------
+Already up-to-date.
+
+Checking yast-instserver...
+- There are 21 branches
+- There are 56 tags
+- There are 130 commits in the current branch
+
+Processing "yast-ipsec.git"
+--------------------------------
+Cloning into yast-ipsec...
+warning: remote HEAD refers to nonexistent ref, unable to checkout.
+
+
+Checking yast-ipsec...
+fatal: bad default revision 'HEAD'
+- There are 16 branches
+- There are 8 tags
+- There are 0 commits in the current branch
+
+Processing "yast-irda.git"
+--------------------------------
+Already up-to-date.
+
+Checking yast-irda...
+- There are 21 branches
+- There are 26 tags
+- There are 59 commits in the current branch
+
+Processing "yast-iscsi-client.git"
+--------------------------------
+Already up-to-date.
+
+Checking yast-iscsi-client...
+- There are 20 branches
+- There are 143 tags
+- There are 182 commits in the current branch
+
+Processing "yast-iscsi-server.git"
+--------------------------------
+Already up-to-date.
+
+Checking yast-iscsi-server...
+- There are 20 branches
+- There are 54 tags
+- There are 124 commits in the current branch
+
+Processing "yast-isns.git"
+--------------------------------
+Already up-to-date.
+
+Checking yast-isns...
+- There are 13 branches
+- There are 11 tags
+- There are 21 commits in the current branch
+
+Processing "yast-kdump.git"
+--------------------------------
+Already up-to-date.
+
+Checking yast-kdump...
+- There are 15 branches
+- There are 42 tags
+- There are 106 commits in the current branch
+
+Processing "yast-kerberos-client.git"
+--------------------------------
+Already up-to-date.
+
+Checking yast-kerberos-client...
+- There are 22 branches
+- There are 86 tags
+- There are 200 commits in the current branch
+
+Processing "yast-kerberos-server.git"
+--------------------------------
+Already up-to-date.
+
+Checking yast-kerberos-server...
+- There are 12 branches
+- There are 26 tags
+- There are 76 commits in the current branch
+
+Processing "yast-ldap-client.git"
+--------------------------------
+Already up-to-date.
+
+Checking yast-ldap-client...
+- There are 22 branches
+- There are 172 tags
+- There are 402 commits in the current branch
+
+Processing "yast-ldap-server.git"
+--------------------------------
+Already up-to-date.
+
+Checking yast-ldap-server...
+- There are 22 branches
+- There are 79 tags
+- There are 741 commits in the current branch
+
+Processing "yast-ldap.git"
+--------------------------------
+Already up-to-date.
+
+Checking yast-ldap...
+- There are 22 branches
+- There are 30 tags
+- There are 83 commits in the current branch
+
+Processing "yast-liby2util.git"
+--------------------------------
+Cloning into yast-liby2util...
+warning: remote HEAD refers to nonexistent ref, unable to checkout.
+
+
+Checking yast-liby2util...
+fatal: bad default revision 'HEAD'
+- There are 11 branches
+- There are 26 tags
+- There are 0 commits in the current branch
+
+Processing "yast-libyui-bindings.git"
+--------------------------------
+Already up-to-date.
+
+Checking yast-libyui-bindings...
+- There are 10 branches
+- There are 0 tags
+- There are 61 commits in the current branch
+
+Processing "yast-libyui.git"
+--------------------------------
+Cloning into yast-libyui...
+warning: You appear to have cloned an empty repository.
+
+Checking yast-libyui...
+fatal: bad default revision 'HEAD'
+- There are 0 branches
+- There are 0 tags
+- There are 0 commits in the current branch
+
+Processing "yast-live-installer.git"
+--------------------------------
+Already up-to-date.
+
+Checking yast-live-installer...
+- There are 11 branches
+- There are 42 tags
+- There are 81 commits in the current branch
+
+Processing "yast-mail-server.git"
+--------------------------------
+Cloning into yast-mail-server...
+warning: remote HEAD refers to nonexistent ref, unable to checkout.
+
+
+Checking yast-mail-server...
+fatal: bad default revision 'HEAD'
+- There are 10 branches
+- There are 15 tags
+- There are 0 commits in the current branch
+
+Processing "yast-mail.git"
+--------------------------------
+Already up-to-date.
+
+Checking yast-mail...
+- There are 22 branches
+- There are 62 tags
+- There are 540 commits in the current branch
+
+Processing "yast-metapackage.git"
+--------------------------------
+Already up-to-date.
+
+Checking yast-metapackage...
+- There are 12 branches
+- There are 18 tags
+- There are 107 commits in the current branch
+
+Processing "yast-modules.git"
+--------------------------------
+Already up-to-date.
+
+Checking yast-modules...
+- There are 3 branches
+- There are 0 tags
+- There are 3 commits in the current branch
+
+Processing "yast-mouse.git"
+--------------------------------
+Already up-to-date.
+
+Checking yast-mouse...
+- There are 22 branches
+- There are 19 tags
+- There are 162 commits in the current branch
+
+Processing "yast-multipath.git"
+--------------------------------
+Already up-to-date.
+
+Checking yast-multipath...
+- There are 9 branches
+- There are 3 tags
+- There are 27 commits in the current branch
+
+Processing "yast-mysql-server.git"
+--------------------------------
+Already up-to-date.
+
+Checking yast-mysql-server...
+- There are 10 branches
+- There are 2 tags
+- There are 5 commits in the current branch
+
+Processing "yast-ncurses-pkg.git"
+--------------------------------
+Already up-to-date.
+
+Checking yast-ncurses-pkg...
+- There are 11 branches
+- There are 49 tags
+- There are 212 commits in the current branch
+
+Processing "yast-ncurses.git"
+--------------------------------
+Already up-to-date.
+
+Checking yast-ncurses...
+- There are 22 branches
+- There are 187 tags
+- There are 1381 commits in the current branch
+
+Processing "yast-network.git"
+--------------------------------
+Already up-to-date.
+
+Checking yast-network...
+- There are 22 branches
+- There are 593 tags
+- There are 2033 commits in the current branch
+
+Processing "yast-nfs-client.git"
+--------------------------------
+Already up-to-date.
+
+Checking yast-nfs-client...
+- There are 22 branches
+- There are 42 tags
+- There are 341 commits in the current branch
+
+Processing "yast-nfs-server.git"
+--------------------------------
+Already up-to-date.
+
+Checking yast-nfs-server...
+- There are 21 branches
+- There are 38 tags
+- There are 293 commits in the current branch
+
+Processing "yast-nfscim.git"
+--------------------------------
+Cloning into yast-nfscim...
+warning: You appear to have cloned an empty repository.
+
+Checking yast-nfscim...
+fatal: bad default revision 'HEAD'
+- There are 0 branches
+- There are 0 tags
+- There are 0 commits in the current branch
+
+Processing "yast-nis-client.git"
+--------------------------------
+Already up-to-date.
+
+Checking yast-nis-client...
+- There are 21 branches
+- There are 53 tags
+- There are 406 commits in the current branch
+
+Processing "yast-nis-server.git"
+--------------------------------
+Already up-to-date.
+
+Checking yast-nis-server...
+- There are 21 branches
+- There are 35 tags
+- There are 339 commits in the current branch
+
+Processing "yast-ntp-client.git"
+--------------------------------
+Already up-to-date.
+
+Checking yast-ntp-client...
+- There are 22 branches
+- There are 76 tags
+- There are 345 commits in the current branch
+
+Processing "yast-ntsutils.git"
+--------------------------------
+Cloning into yast-ntsutils...
+warning: remote HEAD refers to nonexistent ref, unable to checkout.
+
+
+Checking yast-ntsutils...
+fatal: bad default revision 'HEAD'
+- There are 5 branches
+- There are 1 tags
+- There are 0 commits in the current branch
+
+Processing "yast-oem-installation.git"
+--------------------------------
+Cloning into yast-oem-installation...
+warning: remote HEAD refers to nonexistent ref, unable to checkout.
+
+
+Checking yast-oem-installation...
+fatal: bad default revision 'HEAD'
+- There are 2 branches
+- There are 2 tags
+- There are 0 commits in the current branch
+
+Processing "yast-online-update-configuration.git"
+--------------------------------
+Already up-to-date.
+
+Checking yast-online-update-configuration...
+- There are 6 branches
+- There are 1 tags
+- There are 13 commits in the current branch
+
+Processing "yast-online-update-test.git"
+--------------------------------
+Cloning into yast-online-update-test...
+warning: remote HEAD refers to nonexistent ref, unable to checkout.
+
+
+Checking yast-online-update-test...
+fatal: bad default revision 'HEAD'
+- There are 2 branches
+- There are 3 tags
+- There are 0 commits in the current branch
+
+Processing "yast-online-update.git"
+--------------------------------
+Already up-to-date.
+
+Checking yast-online-update...
+- There are 5 branches
+- There are 45 tags
+- There are 612 commits in the current branch
+
+Processing "yast-openschool.git"
+--------------------------------
+Cloning into yast-openschool...
+warning: remote HEAD refers to nonexistent ref, unable to checkout.
+
+
+Checking yast-openschool...
+fatal: bad default revision 'HEAD'
+- There are 2 branches
+- There are 2 tags
+- There are 0 commits in the current branch
+
+Processing "yast-openteam.git"
+--------------------------------
+Cloning into yast-openteam...
+warning: remote HEAD refers to nonexistent ref, unable to checkout.
+
+
+Checking yast-openteam...
+fatal: bad default revision 'HEAD'
+- There are 2 branches
+- There are 2 tags
+- There are 0 commits in the current branch
+
+Processing "yast-openvas-security-scanner.git"
+--------------------------------
+Cloning into yast-openvas-security-scanner...
+warning: remote HEAD refers to nonexistent ref, unable to checkout.
+
+
+Checking yast-openvas-security-scanner...
+fatal: bad default revision 'HEAD'
+- There are 1 branches
+- There are 5 tags
+- There are 0 commits in the current branch
+
+Processing "yast-openwsman-yast.git"
+--------------------------------
+Already up-to-date.
+
+Checking yast-openwsman-yast...
+- There are 11 branches
+- There are 0 tags
+- There are 27 commits in the current branch
+
+Processing "yast-packagemanager-test.git"
+--------------------------------
+Cloning into yast-packagemanager-test...
+warning: remote HEAD refers to nonexistent ref, unable to checkout.
+
+
+Checking yast-packagemanager-test...
+fatal: bad default revision 'HEAD'
+- There are 11 branches
+- There are 3 tags
+- There are 0 commits in the current branch
+
+Processing "yast-packagemanager.git"
+--------------------------------
+Cloning into yast-packagemanager...
+warning: remote HEAD refers to nonexistent ref, unable to checkout.
+
+
+Checking yast-packagemanager...
+fatal: bad default revision 'HEAD'
+- There are 11 branches
+- There are 61 tags
+- There are 0 commits in the current branch
+
+Processing "yast-packager.git"
+--------------------------------
+Already up-to-date.
+
+Checking yast-packager...
+- There are 22 branches
+- There are 551 tags
+- There are 2243 commits in the current branch
+
+Processing "yast-pam.git"
+--------------------------------
+Already up-to-date.
+
+Checking yast-pam...
+- There are 22 branches
+- There are 32 tags
+- There are 107 commits in the current branch
+
+Processing "yast-perl-bindings.git"
+--------------------------------
+Already up-to-date.
+
+Checking yast-perl-bindings...
+- There are 21 branches
+- There are 39 tags
+- There are 250 commits in the current branch
+
+Processing "yast-phone-services.git"
+--------------------------------
+Already up-to-date.
+
+Checking yast-phone-services...
+- There are 21 branches
+- There are 12 tags
+- There are 109 commits in the current branch
+
+Processing "yast-pkg-bindings.git"
+--------------------------------
+Already up-to-date.
+
+Checking yast-pkg-bindings...
+- There are 22 branches
+- There are 334 tags
+- There are 736 commits in the current branch
+
+Processing "yast-pos-installation.git"
+--------------------------------
+Cloning into yast-pos-installation...
+warning: remote HEAD refers to nonexistent ref, unable to checkout.
+
+
+Checking yast-pos-installation...
+fatal: bad default revision 'HEAD'
+- There are 7 branches
+- There are 26 tags
+- There are 0 commits in the current branch
+
+Processing "yast-power-management.git"
+--------------------------------
+Already up-to-date.
+
+Checking yast-power-management...
+- There are 19 branches
+- There are 38 tags
+- There are 141 commits in the current branch
+
+Processing "yast-printer.git"
+--------------------------------
+Already up-to-date.
+
+Checking yast-printer...
+- There are 22 branches
+- There are 207 tags
+- There are 210 commits in the current branch
+
+Processing "yast-printerdb.git"
+--------------------------------
+Cloning into yast-printerdb...
+warning: remote HEAD refers to nonexistent ref, unable to checkout.
+
+
+Checking yast-printerdb...
+fatal: bad default revision 'HEAD'
+- There are 0 branches
+- There are 1 tags
+- There are 0 commits in the current branch
+
+Processing "yast-product-creator.git"
+--------------------------------
+Already up-to-date.
+
+Checking yast-product-creator...
+- There are 16 branches
+- There are 158 tags
+- There are 187 commits in the current branch
+
+Processing "yast-profile-manager.git"
+--------------------------------
+Already up-to-date.
+
+Checking yast-profile-manager...
+- There are 22 branches
+- There are 27 tags
+- There are 197 commits in the current branch
+
+Processing "yast-python-bindings.git"
+--------------------------------
+Already up-to-date.
+
+Checking yast-python-bindings...
+- There are 14 branches
+- There are 18 tags
+- There are 81 commits in the current branch
+
+Processing "yast-qt-graph.git"
+--------------------------------
+Already up-to-date.
+
+Checking yast-qt-graph...
+- There are 7 branches
+- There are 0 tags
+- There are 68 commits in the current branch
+
+Processing "yast-qt-pkg.git"
+--------------------------------
+Cloning into yast-qt-pkg...
+warning: You appear to have cloned an empty repository.
+
+Checking yast-qt-pkg...
+fatal: bad default revision 'HEAD'
+- There are 0 branches
+- There are 0 tags
+- There are 0 commits in the current branch
+
+Processing "yast-qt.git"
+--------------------------------
+Already up-to-date.
+
+Checking yast-qt...
+- There are 22 branches
+- There are 129 tags
+- There are 448 commits in the current branch
+
+Processing "yast-qt3.git"
+--------------------------------
+Cloning into yast-qt3...
+warning: You appear to have cloned an empty repository.
+
+Checking yast-qt3...
+fatal: bad default revision 'HEAD'
+- There are 0 branches
+- There are 0 tags
+- There are 0 commits in the current branch
+
+Processing "yast-rdp.git"
+--------------------------------
+Cloning into yast-rdp...
+warning: remote HEAD refers to nonexistent ref, unable to checkout.
+
+
+Checking yast-rdp...
+fatal: bad default revision 'HEAD'
+- There are 2 branches
+- There are 2 tags
+- There are 0 commits in the current branch
+
+Processing "yast-registration.git"
+--------------------------------
+Already up-to-date.
+
+Checking yast-registration...
+- There are 17 branches
+- There are 90 tags
+- There are 162 commits in the current branch
+
+Processing "yast-reipl.git"
+--------------------------------
+Already up-to-date.
+
+Checking yast-reipl...
+- There are 11 branches
+- There are 10 tags
+- There are 35 commits in the current branch
+
+Processing "yast-repair.git"
+--------------------------------
+Cloning into yast-repair...
+warning: remote HEAD refers to nonexistent ref, unable to checkout.
+
+
+Checking yast-repair...
+fatal: bad default revision 'HEAD'
+- There are 18 branches
+- There are 72 tags
+- There are 0 commits in the current branch
+
+Processing "yast-restore.git"
+--------------------------------
+Already up-to-date.
+
+Checking yast-restore...
+- There are 22 branches
+- There are 34 tags
+- There are 160 commits in the current branch
+
+Processing "yast-ruby-bindings.git"
+--------------------------------
+Already up-to-date.
+
+Checking yast-ruby-bindings...
+- There are 11 branches
+- There are 1 tags
+- There are 87 commits in the current branch
+
+Processing "yast-rules.git"
+--------------------------------
+Cloning into yast-rules...
+warning: You appear to have cloned an empty repository.
+
+Checking yast-rules...
+fatal: bad default revision 'HEAD'
+- There are 0 branches
+- There are 0 tags
+- There are 0 commits in the current branch
+
+Processing "yast-runlevel.git"
+--------------------------------
+Already up-to-date.
+
+Checking yast-runlevel...
+- There are 22 branches
+- There are 53 tags
+- There are 348 commits in the current branch
+
+Processing "yast-s390.git"
+--------------------------------
+Already up-to-date.
+
+Checking yast-s390...
+- There are 22 branches
+- There are 87 tags
+- There are 192 commits in the current branch
+
+Processing "yast-samba-client.git"
+--------------------------------
+Already up-to-date.
+
+Checking yast-samba-client...
+- There are 23 branches
+- There are 142 tags
+- There are 237 commits in the current branch
+
+Processing "yast-samba-server.git"
+--------------------------------
+Already up-to-date.
+
+Checking yast-samba-server...
+- There are 21 branches
+- There are 91 tags
+- There are 285 commits in the current branch
+
+Processing "yast-scanner.git"
+--------------------------------
+Already up-to-date.
+
+Checking yast-scanner...
+- There are 21 branches
+- There are 81 tags
+- There are 547 commits in the current branch
+
+Processing "yast-schema.git"
+--------------------------------
+Already up-to-date.
+
+Checking yast-schema...
+- There are 22 branches
+- There are 21 tags
+- There are 41 commits in the current branch
+
+Processing "yast-security.git"
+--------------------------------
+Already up-to-date.
+
+Checking yast-security...
+- There are 22 branches
+- There are 58 tags
+- There are 364 commits in the current branch
+
+Processing "yast-slepos-image-builder.git"
+--------------------------------
+Cloning into yast-slepos-image-builder...
+warning: remote HEAD refers to nonexistent ref, unable to checkout.
+
+
+Checking yast-slepos-image-builder...
+fatal: bad default revision 'HEAD'
+- There are 4 branches
+- There are 1 tags
+- There are 0 commits in the current branch
+
+Processing "yast-slepos-system-manager.git"
+--------------------------------
+Cloning into yast-slepos-system-manager...
+warning: remote HEAD refers to nonexistent ref, unable to checkout.
+
+
+Checking yast-slepos-system-manager...
+fatal: bad default revision 'HEAD'
+- There are 4 branches
+- There are 1 tags
+- There are 0 commits in the current branch
+
+Processing "yast-slide-show.git"
+--------------------------------
+Already up-to-date.
+
+Checking yast-slide-show...
+- There are 22 branches
+- There are 114 tags
+- There are 637 commits in the current branch
+
+Processing "yast-slp-server.git"
+--------------------------------
+Already up-to-date.
+
+Checking yast-slp-server...
+- There are 20 branches
+- There are 35 tags
+- There are 68 commits in the current branch
+
+Processing "yast-slp.git"
+--------------------------------
+Already up-to-date.
+
+Checking yast-slp...
+- There are 21 branches
+- There are 14 tags
+- There are 64 commits in the current branch
+
+Processing "yast-snapper.git"
+--------------------------------
+Already up-to-date.
+
+Checking yast-snapper...
+- There are 5 branches
+- There are 35 tags
+- There are 49 commits in the current branch
+
+Processing "yast-sound.git"
+--------------------------------
+Already up-to-date.
+
+Checking yast-sound...
+- There are 22 branches
+- There are 108 tags
+- There are 765 commits in the current branch
+
+Processing "yast-squid.git"
+--------------------------------
+Already up-to-date.
+
+Checking yast-squid...
+- There are 11 branches
+- There are 24 tags
+- There are 81 commits in the current branch
+
+Processing "yast-squidguard.git"
+--------------------------------
+Cloning into yast-squidguard...
+warning: remote HEAD refers to nonexistent ref, unable to checkout.
+
+
+Checking yast-squidguard...
+fatal: bad default revision 'HEAD'
+- There are 8 branches
+- There are 1 tags
+- There are 0 commits in the current branch
+
+Processing "yast-sshd.git"
+--------------------------------
+Already up-to-date.
+
+Checking yast-sshd...
+- There are 11 branches
+- There are 16 tags
+- There are 37 commits in the current branch
+
+Processing "yast-storage.git"
+--------------------------------
+Already up-to-date.
+
+Checking yast-storage...
+- There are 21 branches
+- There are 386 tags
+- There are 3331 commits in the current branch
+
+Processing "yast-sudo.git"
+--------------------------------
+Already up-to-date.
+
+Checking yast-sudo...
+- There are 14 branches
+- There are 18 tags
+- There are 68 commits in the current branch
+
+Processing "yast-support.git"
+--------------------------------
+Already up-to-date.
+
+Checking yast-support...
+- There are 5 branches
+- There are 9 tags
+- There are 216 commits in the current branch
+
+Processing "yast-sysconfig.git"
+--------------------------------
+Already up-to-date.
+
+Checking yast-sysconfig...
+- There are 21 branches
+- There are 26 tags
+- There are 280 commits in the current branch
+
+Processing "yast-system-profile.git"
+--------------------------------
+Already up-to-date.
+
+Checking yast-system-profile...
+- There are 9 branches
+- There are 4 tags
+- There are 18 commits in the current branch
+
+Processing "yast-system-update.git"
+--------------------------------
+Cloning into yast-system-update...
+warning: remote HEAD refers to nonexistent ref, unable to checkout.
+
+
+Checking yast-system-update...
+fatal: bad default revision 'HEAD'
+- There are 6 branches
+- There are 1 tags
+- There are 0 commits in the current branch
+
+Processing "yast-testsuite.git"
+--------------------------------
+Already up-to-date.
+
+Checking yast-testsuite...
+- There are 22 branches
+- There are 17 tags
+- There are 116 commits in the current branch
+
+Processing "yast-tftp-server.git"
+--------------------------------
+Already up-to-date.
+
+Checking yast-tftp-server...
+- There are 21 branches
+- There are 20 tags
+- There are 76 commits in the current branch
+
+Processing "yast-theme-ul.git"
+--------------------------------
+Cloning into yast-theme-ul...
+warning: remote HEAD refers to nonexistent ref, unable to checkout.
+
+
+Checking yast-theme-ul...
+fatal: bad default revision 'HEAD'
+- There are 0 branches
+- There are 1 tags
+- There are 0 commits in the current branch
+
+Processing "yast-theme.git"
+--------------------------------
+Already up-to-date.
+
+Checking yast-theme...
+- There are 22 branches
+- There are 87 tags
+- There are 515 commits in the current branch
+
+Processing "yast-transfer.git"
+--------------------------------
+Already up-to-date.
+
+Checking yast-transfer...
+- There are 22 branches
+- There are 11 tags
+- There are 81 commits in the current branch
+
+Processing "yast-tune.git"
+--------------------------------
+Already up-to-date.
+
+Checking yast-tune...
+- There are 21 branches
+- There are 51 tags
+- There are 254 commits in the current branch
+
+Processing "yast-tv.git"
+--------------------------------
+Already up-to-date.
+
+Checking yast-tv...
+- There are 21 branches
+- There are 58 tags
+- There are 248 commits in the current branch
+
+Processing "yast-ui_qt_tests.git"
+--------------------------------
+Already up-to-date.
+
+Checking yast-ui_qt_tests...
+- There are 4 branches
+- There are 0 tags
+- There are 1 commits in the current branch
+
+Processing "yast-uml.git"
+--------------------------------
+Cloning into yast-uml...
+warning: remote HEAD refers to nonexistent ref, unable to checkout.
+
+
+Checking yast-uml...
+fatal: bad default revision 'HEAD'
+- There are 2 branches
+- There are 8 tags
+- There are 0 commits in the current branch
+
+Processing "yast-update.git"
+--------------------------------
+Already up-to-date.
+
+Checking yast-update...
+- There are 22 branches
+- There are 158 tags
+- There are 676 commits in the current branch
+
+Processing "yast-users.git"
+--------------------------------
+Already up-to-date.
+
+Checking yast-users...
+- There are 22 branches
+- There are 277 tags
+- There are 1006 commits in the current branch
+
+Processing "yast-vm.git"
+--------------------------------
+Already up-to-date.
+
+Checking yast-vm...
+- There are 22 branches
+- There are 119 tags
+- There are 158 commits in the current branch
+
+Processing "yast-wagon.git"
+--------------------------------
+Already up-to-date.
+
+Checking yast-wagon...
+- There are 10 branches
+- There are 50 tags
+- There are 109 commits in the current branch
+
+Processing "yast-watcher.git"
+--------------------------------
+Cloning into yast-watcher...
+warning: remote HEAD refers to nonexistent ref, unable to checkout.
+
+
+Checking yast-watcher...
+fatal: bad default revision 'HEAD'
+- There are 0 branches
+- There are 1 tags
+- There are 0 commits in the current branch
+
+Processing "yast-web-rails.git"
+--------------------------------
+Cloning into yast-web-rails...
+warning: You appear to have cloned an empty repository.
+
+Checking yast-web-rails...
+fatal: bad default revision 'HEAD'
+- There are 0 branches
+- There are 0 tags
+- There are 0 commits in the current branch
+
+Processing "yast-web-service.git"
+--------------------------------
+Cloning into yast-web-service...
+warning: You appear to have cloned an empty repository.
+
+Checking yast-web-service...
+fatal: bad default revision 'HEAD'
+- There are 0 branches
+- There are 0 tags
+- There are 0 commits in the current branch
+
+Processing "yast-web-wt.git"
+--------------------------------
+Cloning into yast-web-wt...
+warning: You appear to have cloned an empty repository.
+
+Checking yast-web-wt...
+fatal: bad default revision 'HEAD'
+- There are 0 branches
+- There are 0 tags
+- There are 0 commits in the current branch
+
+Processing "yast-wlanipsecclient.git"
+--------------------------------
+Cloning into yast-wlanipsecclient...
+warning: remote HEAD refers to nonexistent ref, unable to checkout.
+
+
+Checking yast-wlanipsecclient...
+fatal: bad default revision 'HEAD'
+- There are 0 branches
+- There are 1 tags
+- There are 0 commits in the current branch
+
+Processing "yast-x11.git"
+--------------------------------
+Already up-to-date.
+
+Checking yast-x11...
+- There are 22 branches
+- There are 43 tags
+- There are 397 commits in the current branch
+
+Processing "yast-x11.sav.git"
+--------------------------------
+Cloning into yast-x11.sav...
+warning: You appear to have cloned an empty repository.
+
+Checking yast-x11.sav...
+fatal: bad default revision 'HEAD'
+- There are 0 branches
+- There are 0 tags
+- There are 0 commits in the current branch
+
+Processing "yast-xml.git"
+--------------------------------
+Already up-to-date.
+
+Checking yast-xml...
+- There are 21 branches
+- There are 13 tags
+- There are 100 commits in the current branch
+
+Processing "yast-y2khtml.git"
+--------------------------------
+Cloning into yast-y2khtml...
+warning: remote HEAD refers to nonexistent ref, unable to checkout.
+
+
+Checking yast-y2khtml...
+fatal: bad default revision 'HEAD'
+- There are 0 branches
+- There are 1 tags
+- There are 0 commits in the current branch
+
+Processing "yast-y2pmsh.git"
+--------------------------------
+Cloning into yast-y2pmsh...
+warning: remote HEAD refers to nonexistent ref, unable to checkout.
+
+
+Checking yast-y2pmsh...
+fatal: bad default revision 'HEAD'
+- There are 11 branches
+- There are 15 tags
+- There are 0 commits in the current branch
+
+Processing "yast-yast2.git"
+--------------------------------
+Already up-to-date.
+
+Checking yast-yast2...
+- There are 16 branches
+- There are 383 tags
+- There are 2249 commits in the current branch
+
+Processing "yast-ycp-ui-bindings.git"
+--------------------------------
+Already up-to-date.
+
+Checking yast-ycp-ui-bindings...
+- There are 10 branches
+- There are 21 tags
+- There are 169 commits in the current branch
+
+Processing "yast-you-server.git"
+--------------------------------
+Cloning into yast-you-server...
+warning: remote HEAD refers to nonexistent ref, unable to checkout.
+
+
+Checking yast-you-server...
+fatal: bad default revision 'HEAD'
+- There are 17 branches
+- There are 5 tags
+- There are 0 commits in the current branch
+
+Processing "yast-yxmlconv.git"
+--------------------------------
+Already up-to-date.
+
+Checking yast-yxmlconv...
+- There are 11 branches
+- There are 0 tags
+- There are 14 commits in the current branch
+
