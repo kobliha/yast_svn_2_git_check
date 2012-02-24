@@ -15,13 +15,15 @@ BASEDIR=`pwd`
 for ONE_REPO in ${ALL_REPOS}; do
 	#if [ "${ONE_REPO}" == "yast-add-on.git" ]; then
 
+        cd ${BASEDIR}
+
 	echo "Processing \"${ONE_REPO}\""
 	echo "--------------------------------"
         REPO_DIR=`echo "${ONE_REPO}" | sed 's/\.git//'`
 
 	if [ -e "${REPO_DIR}" ]; then
 	    cd ${REPO_DIR}
-	    git pull || (cd ../; rm -rf ${REPO_DIR}; git clone ${REPOS_BASE_URL}${ONE_REPO}; cd ${REPO_DIR})
+	    git pull || cd ${BASEDIR} && rm -rf ${REPO_DIR} && git clone ${REPOS_BASE_URL}${ONE_REPO} && cd ${REPO_DIR}
 	else
 	    git clone ${REPOS_BASE_URL}${ONE_REPO}
 	    cd ${REPO_DIR}
@@ -34,7 +36,5 @@ for ONE_REPO in ${ALL_REPOS}; do
         echo "- There are ${NR_OF_TAGS} tags in ${REPO_DIR}"
 
         echo
-        cd ${BASEDIR}
-
 	#fi
 done
