@@ -1,4 +1,7 @@
 Just run
-    ./check_yast_git_status.sh 2>>check.log 1>>check.log
+    ./check_yast_git_status.sh 1>>check.log 2>>check.log
+
+last.log is created using
+    ./check_yast_git_status.sh 1>last.log 2>last.log
 
 BTW, the current checkout is about 2+ GB in total
