@@ -1,0 +1,4 @@
+Just run
+    ./check_yast_git_status.sh 2>>check.log 1>>check.log
+
+BTW, the current checkout is about 2+ GB in total
