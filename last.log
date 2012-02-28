@@ -1,27 +1,28 @@
 =============================================
-Mon Feb 27 17:00:55 CET 2012
+Tue Feb 28 10:54:50 CET 2012
 =============================================
 Processing "yast-OPENSSL.git"
 --------------------------------
+Module has been discontinued
 Cloning into yast-OPENSSL...
-warning: remote HEAD refers to nonexistent ref, unable to checkout.
 
 
 Checking yast-OPENSSL...
 fatal: bad default revision 'HEAD'
-- There are 0 branches
+(yast-OPENSSL) ERROR: No branches available
 - There are 1 tags
 - There are 0 commits in the current branch
 
 Processing "yast-SLE-11-WebYaST.git"
 --------------------------------
+Module has been discontinued
 Cloning into yast-SLE-11-WebYaST...
 warning: You appear to have cloned an empty repository.
 
 Checking yast-SLE-11-WebYaST...
 fatal: bad default revision 'HEAD'
-- There are 0 branches
-- There are 0 tags
+(yast-SLE-11-WebYaST) ERROR: No branches available
+(yast-SLE-11-WebYaST) WARNING: No tags available
 - There are 0 commits in the current branch
 
 Processing "yast-add-on-creator.git"
@@ -89,8 +90,8 @@ Checking yast-backup...
 
 Processing "yast-bluetooth.git"
 --------------------------------
+Module has been discontinued
 Cloning into yast-bluetooth...
-warning: remote HEAD refers to nonexistent ref, unable to checkout.
 
 
 Checking yast-bluetooth...
@@ -123,7 +124,7 @@ Already up-to-date.
 
 Checking yast-branding...
 - There are 9 branches
-- There are 0 tags
+(yast-branding) WARNING: No tags available
 - There are 5 commits in the current branch
 
 Processing "yast-build-test.git"
@@ -146,8 +147,8 @@ Checking yast-ca-management...
 
 Processing "yast-cd-creator.git"
 --------------------------------
+Module has been discontinued
 Cloning into yast-cd-creator...
-warning: remote HEAD refers to nonexistent ref, unable to checkout.
 
 
 Checking yast-cd-creator...
@@ -158,8 +159,8 @@ fatal: bad default revision 'HEAD'
 
 Processing "yast-certify.git"
 --------------------------------
+Module has been discontinued
 Cloning into yast-certify...
-warning: remote HEAD refers to nonexistent ref, unable to checkout.
 
 
 Checking yast-certify...
@@ -233,13 +234,13 @@ Checking yast-databackup...
 
 Processing "yast-db2.git"
 --------------------------------
+Module has been discontinued
 Cloning into yast-db2...
-warning: remote HEAD refers to nonexistent ref, unable to checkout.
 
 
 Checking yast-db2...
 fatal: bad default revision 'HEAD'
-- There are 0 branches
+(yast-db2) ERROR: No branches available
 - There are 1 tags
 - There are 0 commits in the current branch
 
@@ -249,7 +250,7 @@ Already up-to-date.
 
 Checking yast-dbus-client...
 - There are 3 branches
-- There are 0 tags
+(yast-dbus-client) WARNING: No tags available
 - There are 1 commits in the current branch
 
 Processing "yast-dbus-server.git"
@@ -258,13 +259,13 @@ Already up-to-date.
 
 Checking yast-dbus-server...
 - There are 3 branches
-- There are 0 tags
+(yast-dbus-server) WARNING: No tags available
 - There are 1 commits in the current branch
 
 Processing "yast-debugger.git"
 --------------------------------
+Module has been discontinued
 Cloning into yast-debugger...
-warning: remote HEAD refers to nonexistent ref, unable to checkout.
 
 
 Checking yast-debugger...
@@ -315,7 +316,7 @@ Already up-to-date.
 
 Checking yast-doc...
 - There are 10 branches
-- There are 0 tags
+(yast-doc) WARNING: No tags available
 - There are 33 commits in the current branch
 
 Processing "yast-drbd.git"
@@ -324,7 +325,7 @@ Already up-to-date.
 
 Checking yast-drbd...
 - There are 7 branches
-- There are 0 tags
+(yast-drbd) WARNING: No tags available
 - There are 5 commits in the current branch
 
 Processing "yast-extra-packages.git"
@@ -333,13 +334,13 @@ Already up-to-date.
 
 Checking yast-extra-packages...
 - There are 3 branches
-- There are 0 tags
+(yast-extra-packages) WARNING: No tags available
 - There are 57 commits in the current branch
 
 Processing "yast-fax-server.git"
 --------------------------------
+Module has been discontinued
 Cloning into yast-fax-server...
-warning: remote HEAD refers to nonexistent ref, unable to checkout.
 
 
 Checking yast-fax-server...
@@ -350,13 +351,13 @@ fatal: bad default revision 'HEAD'
 
 Processing "yast-faxserver.git"
 --------------------------------
+Module has been discontinued
 Cloning into yast-faxserver...
-warning: remote HEAD refers to nonexistent ref, unable to checkout.
 
 
 Checking yast-faxserver...
 fatal: bad default revision 'HEAD'
-- There are 0 branches
+(yast-faxserver) ERROR: No branches available
 - There are 1 tags
 - There are 0 commits in the current branch
 
@@ -389,13 +390,13 @@ Checking yast-firewall...
 
 Processing "yast-firewallcd-admin.git"
 --------------------------------
+Module has been discontinued
 Cloning into yast-firewallcd-admin...
-warning: remote HEAD refers to nonexistent ref, unable to checkout.
 
 
 Checking yast-firewallcd-admin...
 fatal: bad default revision 'HEAD'
-- There are 0 branches
+(yast-firewallcd-admin) ERROR: No branches available
 - There are 2 tags
 - There are 0 commits in the current branch
 
@@ -446,13 +447,13 @@ Checking yast-heartbeat...
 
 Processing "yast-hpc.git"
 --------------------------------
+Module has been discontinued
 Cloning into yast-hpc...
-warning: remote HEAD refers to nonexistent ref, unable to checkout.
 
 
 Checking yast-hpc...
 fatal: bad default revision 'HEAD'
-- There are 1 branches
+(yast-hpc) WARNING: Only one branch available
 - There are 1 tags
 - There are 0 commits in the current branch
 
@@ -476,13 +477,13 @@ Checking yast-inetd...
 
 Processing "yast-installation-sources.git"
 --------------------------------
+Module has been discontinued
 Cloning into yast-installation-sources...
-warning: remote HEAD refers to nonexistent ref, unable to checkout.
 
 
 Checking yast-installation-sources...
 fatal: bad default revision 'HEAD'
-- There are 0 branches
+(yast-installation-sources) ERROR: No branches available
 - There are 1 tags
 - There are 0 commits in the current branch
 
@@ -497,13 +498,14 @@ Checking yast-installation...
 
 Processing "yast-installer.git"
 --------------------------------
+Module has been discontinued
 Cloning into yast-installer...
 warning: You appear to have cloned an empty repository.
 
 Checking yast-installer...
 fatal: bad default revision 'HEAD'
-- There are 0 branches
-- There are 0 tags
+(yast-installer) ERROR: No branches available
+(yast-installer) WARNING: No tags available
 - There are 0 commits in the current branch
 
 Processing "yast-instserver.git"
@@ -517,8 +519,8 @@ Checking yast-instserver...
 
 Processing "yast-ipsec.git"
 --------------------------------
+Module has been discontinued
 Cloning into yast-ipsec...
-warning: remote HEAD refers to nonexistent ref, unable to checkout.
 
 
 Checking yast-ipsec...
@@ -619,8 +621,8 @@ Checking yast-ldap...
 
 Processing "yast-liby2util.git"
 --------------------------------
+Module has been discontinued
 Cloning into yast-liby2util...
-warning: remote HEAD refers to nonexistent ref, unable to checkout.
 
 
 Checking yast-liby2util...
@@ -635,7 +637,7 @@ Already up-to-date.
 
 Checking yast-libyui-bindings...
 - There are 10 branches
-- There are 0 tags
+(yast-libyui-bindings) WARNING: No tags available
 - There are 61 commits in the current branch
 
 Processing "yast-libyui.git"
@@ -645,8 +647,8 @@ warning: You appear to have cloned an empty repository.
 
 Checking yast-libyui...
 fatal: bad default revision 'HEAD'
-- There are 0 branches
-- There are 0 tags
+(yast-libyui) ERROR: No branches available
+(yast-libyui) WARNING: No tags available
 - There are 0 commits in the current branch
 
 Processing "yast-live-installer.git"
@@ -660,8 +662,8 @@ Checking yast-live-installer...
 
 Processing "yast-mail-server.git"
 --------------------------------
+Module has been discontinued
 Cloning into yast-mail-server...
-warning: remote HEAD refers to nonexistent ref, unable to checkout.
 
 
 Checking yast-mail-server...
@@ -694,7 +696,7 @@ Already up-to-date.
 
 Checking yast-modules...
 - There are 3 branches
-- There are 0 tags
+(yast-modules) WARNING: No tags available
 - There are 3 commits in the current branch
 
 Processing "yast-mouse.git"
@@ -771,13 +773,14 @@ Checking yast-nfs-server...
 
 Processing "yast-nfscim.git"
 --------------------------------
+Module has been discontinued
 Cloning into yast-nfscim...
 warning: You appear to have cloned an empty repository.
 
 Checking yast-nfscim...
 fatal: bad default revision 'HEAD'
-- There are 0 branches
-- There are 0 tags
+(yast-nfscim) ERROR: No branches available
+(yast-nfscim) WARNING: No tags available
 - There are 0 commits in the current branch
 
 Processing "yast-nis-client.git"
@@ -809,8 +812,8 @@ Checking yast-ntp-client...
 
 Processing "yast-ntsutils.git"
 --------------------------------
+Module has been discontinued
 Cloning into yast-ntsutils...
-warning: remote HEAD refers to nonexistent ref, unable to checkout.
 
 
 Checking yast-ntsutils...
@@ -821,8 +824,8 @@ fatal: bad default revision 'HEAD'
 
 Processing "yast-oem-installation.git"
 --------------------------------
+Module has been discontinued
 Cloning into yast-oem-installation...
-warning: remote HEAD refers to nonexistent ref, unable to checkout.
 
 
 Checking yast-oem-installation...
@@ -842,8 +845,8 @@ Checking yast-online-update-configuration...
 
 Processing "yast-online-update-test.git"
 --------------------------------
+Module has been discontinued
 Cloning into yast-online-update-test...
-warning: remote HEAD refers to nonexistent ref, unable to checkout.
 
 
 Checking yast-online-update-test...
@@ -863,8 +866,8 @@ Checking yast-online-update...
 
 Processing "yast-openschool.git"
 --------------------------------
+Module has been discontinued
 Cloning into yast-openschool...
-warning: remote HEAD refers to nonexistent ref, unable to checkout.
 
 
 Checking yast-openschool...
@@ -875,8 +878,8 @@ fatal: bad default revision 'HEAD'
 
 Processing "yast-openteam.git"
 --------------------------------
+Module has been discontinued
 Cloning into yast-openteam...
-warning: remote HEAD refers to nonexistent ref, unable to checkout.
 
 
 Checking yast-openteam...
@@ -887,13 +890,13 @@ fatal: bad default revision 'HEAD'
 
 Processing "yast-openvas-security-scanner.git"
 --------------------------------
+Module has been discontinued
 Cloning into yast-openvas-security-scanner...
-warning: remote HEAD refers to nonexistent ref, unable to checkout.
 
 
 Checking yast-openvas-security-scanner...
 fatal: bad default revision 'HEAD'
-- There are 1 branches
+(yast-openvas-security-scanner) WARNING: Only one branch available
 - There are 5 tags
 - There are 0 commits in the current branch
 
@@ -903,13 +906,13 @@ Already up-to-date.
 
 Checking yast-openwsman-yast...
 - There are 11 branches
-- There are 0 tags
+(yast-openwsman-yast) WARNING: No tags available
 - There are 27 commits in the current branch
 
 Processing "yast-packagemanager-test.git"
 --------------------------------
+Module has been discontinued
 Cloning into yast-packagemanager-test...
-warning: remote HEAD refers to nonexistent ref, unable to checkout.
 
 
 Checking yast-packagemanager-test...
@@ -920,8 +923,8 @@ fatal: bad default revision 'HEAD'
 
 Processing "yast-packagemanager.git"
 --------------------------------
+Module has been discontinued
 Cloning into yast-packagemanager...
-warning: remote HEAD refers to nonexistent ref, unable to checkout.
 
 
 Checking yast-packagemanager...
@@ -977,8 +980,8 @@ Checking yast-pkg-bindings...
 
 Processing "yast-pos-installation.git"
 --------------------------------
+Module has been discontinued
 Cloning into yast-pos-installation...
-warning: remote HEAD refers to nonexistent ref, unable to checkout.
 
 
 Checking yast-pos-installation...
@@ -1007,13 +1010,13 @@ Checking yast-printer...
 
 Processing "yast-printerdb.git"
 --------------------------------
+Module has been discontinued
 Cloning into yast-printerdb...
-warning: remote HEAD refers to nonexistent ref, unable to checkout.
 
 
 Checking yast-printerdb...
 fatal: bad default revision 'HEAD'
-- There are 0 branches
+(yast-printerdb) ERROR: No branches available
 - There are 1 tags
 - There are 0 commits in the current branch
 
@@ -1050,7 +1053,7 @@ Already up-to-date.
 
 Checking yast-qt-graph...
 - There are 7 branches
-- There are 0 tags
+(yast-qt-graph) WARNING: No tags available
 - There are 68 commits in the current branch
 
 Processing "yast-qt-pkg.git"
@@ -1060,8 +1063,8 @@ warning: You appear to have cloned an empty repository.
 
 Checking yast-qt-pkg...
 fatal: bad default revision 'HEAD'
-- There are 0 branches
-- There are 0 tags
+(yast-qt-pkg) ERROR: No branches available
+(yast-qt-pkg) WARNING: No tags available
 - There are 0 commits in the current branch
 
 Processing "yast-qt.git"
@@ -1075,19 +1078,20 @@ Checking yast-qt...
 
 Processing "yast-qt3.git"
 --------------------------------
+Module has been discontinued
 Cloning into yast-qt3...
 warning: You appear to have cloned an empty repository.
 
 Checking yast-qt3...
 fatal: bad default revision 'HEAD'
-- There are 0 branches
-- There are 0 tags
+(yast-qt3) ERROR: No branches available
+(yast-qt3) WARNING: No tags available
 - There are 0 commits in the current branch
 
 Processing "yast-rdp.git"
 --------------------------------
+Module has been discontinued
 Cloning into yast-rdp...
-warning: remote HEAD refers to nonexistent ref, unable to checkout.
 
 
 Checking yast-rdp...
@@ -1116,8 +1120,8 @@ Checking yast-reipl...
 
 Processing "yast-repair.git"
 --------------------------------
+Module has been discontinued
 Cloning into yast-repair...
-warning: remote HEAD refers to nonexistent ref, unable to checkout.
 
 
 Checking yast-repair...
@@ -1146,13 +1150,14 @@ Checking yast-ruby-bindings...
 
 Processing "yast-rules.git"
 --------------------------------
+Module has been discontinued
 Cloning into yast-rules...
 warning: You appear to have cloned an empty repository.
 
 Checking yast-rules...
 fatal: bad default revision 'HEAD'
-- There are 0 branches
-- There are 0 tags
+(yast-rules) ERROR: No branches available
+(yast-rules) WARNING: No tags available
 - There are 0 commits in the current branch
 
 Processing "yast-runlevel.git"
@@ -1220,8 +1225,8 @@ Checking yast-security...
 
 Processing "yast-slepos-image-builder.git"
 --------------------------------
+Module has been discontinued
 Cloning into yast-slepos-image-builder...
-warning: remote HEAD refers to nonexistent ref, unable to checkout.
 
 
 Checking yast-slepos-image-builder...
@@ -1232,8 +1237,8 @@ fatal: bad default revision 'HEAD'
 
 Processing "yast-slepos-system-manager.git"
 --------------------------------
+Module has been discontinued
 Cloning into yast-slepos-system-manager...
-warning: remote HEAD refers to nonexistent ref, unable to checkout.
 
 
 Checking yast-slepos-system-manager...
@@ -1298,8 +1303,8 @@ Checking yast-squid...
 
 Processing "yast-squidguard.git"
 --------------------------------
+Module has been discontinued
 Cloning into yast-squidguard...
-warning: remote HEAD refers to nonexistent ref, unable to checkout.
 
 
 Checking yast-squidguard...
@@ -1364,8 +1369,8 @@ Checking yast-system-profile...
 
 Processing "yast-system-update.git"
 --------------------------------
+Module has been discontinued
 Cloning into yast-system-update...
-warning: remote HEAD refers to nonexistent ref, unable to checkout.
 
 
 Checking yast-system-update...
@@ -1394,13 +1399,13 @@ Checking yast-tftp-server...
 
 Processing "yast-theme-ul.git"
 --------------------------------
+Module has been discontinued
 Cloning into yast-theme-ul...
-warning: remote HEAD refers to nonexistent ref, unable to checkout.
 
 
 Checking yast-theme-ul...
 fatal: bad default revision 'HEAD'
-- There are 0 branches
+(yast-theme-ul) ERROR: No branches available
 - There are 1 tags
 - There are 0 commits in the current branch
 
@@ -1446,13 +1451,13 @@ Already up-to-date.
 
 Checking yast-ui_qt_tests...
 - There are 4 branches
-- There are 0 tags
+(yast-ui_qt_tests) WARNING: No tags available
 - There are 1 commits in the current branch
 
 Processing "yast-uml.git"
 --------------------------------
+Module has been discontinued
 Cloning into yast-uml...
-warning: remote HEAD refers to nonexistent ref, unable to checkout.
 
 
 Checking yast-uml...
@@ -1499,58 +1504,61 @@ Checking yast-wagon...
 
 Processing "yast-watcher.git"
 --------------------------------
+Module has been discontinued
 Cloning into yast-watcher...
-warning: remote HEAD refers to nonexistent ref, unable to checkout.
 
 
 Checking yast-watcher...
 fatal: bad default revision 'HEAD'
-- There are 0 branches
+(yast-watcher) ERROR: No branches available
 - There are 1 tags
 - There are 0 commits in the current branch
 
 Processing "yast-web-rails.git"
 --------------------------------
+Module has been discontinued
 Cloning into yast-web-rails...
 warning: You appear to have cloned an empty repository.
 
 Checking yast-web-rails...
 fatal: bad default revision 'HEAD'
-- There are 0 branches
-- There are 0 tags
+(yast-web-rails) ERROR: No branches available
+(yast-web-rails) WARNING: No tags available
 - There are 0 commits in the current branch
 
 Processing "yast-web-service.git"
 --------------------------------
+Module has been discontinued
 Cloning into yast-web-service...
 warning: You appear to have cloned an empty repository.
 
 Checking yast-web-service...
 fatal: bad default revision 'HEAD'
-- There are 0 branches
-- There are 0 tags
+(yast-web-service) ERROR: No branches available
+(yast-web-service) WARNING: No tags available
 - There are 0 commits in the current branch
 
 Processing "yast-web-wt.git"
 --------------------------------
+Module has been discontinued
 Cloning into yast-web-wt...
 warning: You appear to have cloned an empty repository.
 
 Checking yast-web-wt...
 fatal: bad default revision 'HEAD'
-- There are 0 branches
-- There are 0 tags
+(yast-web-wt) ERROR: No branches available
+(yast-web-wt) WARNING: No tags available
 - There are 0 commits in the current branch
 
 Processing "yast-wlanipsecclient.git"
 --------------------------------
+Module has been discontinued
 Cloning into yast-wlanipsecclient...
-warning: remote HEAD refers to nonexistent ref, unable to checkout.
 
 
 Checking yast-wlanipsecclient...
 fatal: bad default revision 'HEAD'
-- There are 0 branches
+(yast-wlanipsecclient) ERROR: No branches available
 - There are 1 tags
 - There are 0 commits in the current branch
 
@@ -1565,13 +1573,14 @@ Checking yast-x11...
 
 Processing "yast-x11.sav.git"
 --------------------------------
+Module has been discontinued
 Cloning into yast-x11.sav...
 warning: You appear to have cloned an empty repository.
 
 Checking yast-x11.sav...
 fatal: bad default revision 'HEAD'
-- There are 0 branches
-- There are 0 tags
+(yast-x11.sav) ERROR: No branches available
+(yast-x11.sav) WARNING: No tags available
 - There are 0 commits in the current branch
 
 Processing "yast-xml.git"
@@ -1585,20 +1594,20 @@ Checking yast-xml...
 
 Processing "yast-y2khtml.git"
 --------------------------------
+Module has been discontinued
 Cloning into yast-y2khtml...
-warning: remote HEAD refers to nonexistent ref, unable to checkout.
 
 
 Checking yast-y2khtml...
 fatal: bad default revision 'HEAD'
-- There are 0 branches
+(yast-y2khtml) ERROR: No branches available
 - There are 1 tags
 - There are 0 commits in the current branch
 
 Processing "yast-y2pmsh.git"
 --------------------------------
+Module has been discontinued
 Cloning into yast-y2pmsh...
-warning: remote HEAD refers to nonexistent ref, unable to checkout.
 
 
 Checking yast-y2pmsh...
@@ -1627,8 +1636,8 @@ Checking yast-ycp-ui-bindings...
 
 Processing "yast-you-server.git"
 --------------------------------
+Module has been discontinued
 Cloning into yast-you-server...
-warning: remote HEAD refers to nonexistent ref, unable to checkout.
 
 
 Checking yast-you-server...
@@ -1643,6 +1652,6 @@ Already up-to-date.
 
 Checking yast-yxmlconv...
 - There are 11 branches
-- There are 0 tags
+(yast-yxmlconv) WARNING: No tags available
 - There are 14 commits in the current branch
 
