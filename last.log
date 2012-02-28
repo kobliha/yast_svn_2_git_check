@@ -1,9 +1,9 @@
 =============================================
-Tue Feb 28 10:54:50 CET 2012
+Tue Feb 28 11:02:16 CET 2012
 =============================================
 Processing "yast-OPENSSL.git"
 --------------------------------
-Module has been discontinued
+(yast-OPENSSL) INFO: Module has been discontinued
 Cloning into yast-OPENSSL...
 
 
@@ -15,7 +15,7 @@ fatal: bad default revision 'HEAD'
 
 Processing "yast-SLE-11-WebYaST.git"
 --------------------------------
-Module has been discontinued
+(yast-SLE-11-WebYaST) INFO: Module has been discontinued
 Cloning into yast-SLE-11-WebYaST...
 warning: You appear to have cloned an empty repository.
 
@@ -90,7 +90,7 @@ Checking yast-backup...
 
 Processing "yast-bluetooth.git"
 --------------------------------
-Module has been discontinued
+(yast-bluetooth) INFO: Module has been discontinued
 Cloning into yast-bluetooth...
 
 
@@ -147,7 +147,7 @@ Checking yast-ca-management...
 
 Processing "yast-cd-creator.git"
 --------------------------------
-Module has been discontinued
+(yast-cd-creator) INFO: Module has been discontinued
 Cloning into yast-cd-creator...
 
 
@@ -159,7 +159,7 @@ fatal: bad default revision 'HEAD'
 
 Processing "yast-certify.git"
 --------------------------------
-Module has been discontinued
+(yast-certify) INFO: Module has been discontinued
 Cloning into yast-certify...
 
 
@@ -234,7 +234,7 @@ Checking yast-databackup...
 
 Processing "yast-db2.git"
 --------------------------------
-Module has been discontinued
+(yast-db2) INFO: Module has been discontinued
 Cloning into yast-db2...
 
 
@@ -264,7 +264,7 @@ Checking yast-dbus-server...
 
 Processing "yast-debugger.git"
 --------------------------------
-Module has been discontinued
+(yast-debugger) INFO: Module has been discontinued
 Cloning into yast-debugger...
 
 
@@ -339,7 +339,7 @@ Checking yast-extra-packages...
 
 Processing "yast-fax-server.git"
 --------------------------------
-Module has been discontinued
+(yast-fax-server) INFO: Module has been discontinued
 Cloning into yast-fax-server...
 
 
@@ -351,7 +351,7 @@ fatal: bad default revision 'HEAD'
 
 Processing "yast-faxserver.git"
 --------------------------------
-Module has been discontinued
+(yast-faxserver) INFO: Module has been discontinued
 Cloning into yast-faxserver...
 
 
@@ -390,7 +390,7 @@ Checking yast-firewall...
 
 Processing "yast-firewallcd-admin.git"
 --------------------------------
-Module has been discontinued
+(yast-firewallcd-admin) INFO: Module has been discontinued
 Cloning into yast-firewallcd-admin...
 
 
@@ -447,7 +447,7 @@ Checking yast-heartbeat...
 
 Processing "yast-hpc.git"
 --------------------------------
-Module has been discontinued
+(yast-hpc) INFO: Module has been discontinued
 Cloning into yast-hpc...
 
 
@@ -477,7 +477,7 @@ Checking yast-inetd...
 
 Processing "yast-installation-sources.git"
 --------------------------------
-Module has been discontinued
+(yast-installation-sources) INFO: Module has been discontinued
 Cloning into yast-installation-sources...
 
 
@@ -498,7 +498,7 @@ Checking yast-installation...
 
 Processing "yast-installer.git"
 --------------------------------
-Module has been discontinued
+(yast-installer) INFO: Module has been discontinued
 Cloning into yast-installer...
 warning: You appear to have cloned an empty repository.
 
@@ -519,7 +519,7 @@ Checking yast-instserver...
 
 Processing "yast-ipsec.git"
 --------------------------------
-Module has been discontinued
+(yast-ipsec) INFO: Module has been discontinued
 Cloning into yast-ipsec...
 
 
@@ -621,7 +621,7 @@ Checking yast-ldap...
 
 Processing "yast-liby2util.git"
 --------------------------------
-Module has been discontinued
+(yast-liby2util) INFO: Module has been discontinued
 Cloning into yast-liby2util...
 
 
@@ -662,7 +662,7 @@ Checking yast-live-installer...
 
 Processing "yast-mail-server.git"
 --------------------------------
-Module has been discontinued
+(yast-mail-server) INFO: Module has been discontinued
 Cloning into yast-mail-server...
 
 
@@ -773,7 +773,7 @@ Checking yast-nfs-server...
 
 Processing "yast-nfscim.git"
 --------------------------------
-Module has been discontinued
+(yast-nfscim) INFO: Module has been discontinued
 Cloning into yast-nfscim...
 warning: You appear to have cloned an empty repository.
 
@@ -812,7 +812,7 @@ Checking yast-ntp-client...
 
 Processing "yast-ntsutils.git"
 --------------------------------
-Module has been discontinued
+(yast-ntsutils) INFO: Module has been discontinued
 Cloning into yast-ntsutils...
 
 
@@ -824,7 +824,7 @@ fatal: bad default revision 'HEAD'
 
 Processing "yast-oem-installation.git"
 --------------------------------
-Module has been discontinued
+(yast-oem-installation) INFO: Module has been discontinued
 Cloning into yast-oem-installation...
 
 
@@ -845,7 +845,7 @@ Checking yast-online-update-configuration...
 
 Processing "yast-online-update-test.git"
 --------------------------------
-Module has been discontinued
+(yast-online-update-test) INFO: Module has been discontinued
 Cloning into yast-online-update-test...
 
 
@@ -866,7 +866,7 @@ Checking yast-online-update...
 
 Processing "yast-openschool.git"
 --------------------------------
-Module has been discontinued
+(yast-openschool) INFO: Module has been discontinued
 Cloning into yast-openschool...
 
 
@@ -878,7 +878,7 @@ fatal: bad default revision 'HEAD'
 
 Processing "yast-openteam.git"
 --------------------------------
-Module has been discontinued
+(yast-openteam) INFO: Module has been discontinued
 Cloning into yast-openteam...
 
 
@@ -890,7 +890,7 @@ fatal: bad default revision 'HEAD'
 
 Processing "yast-openvas-security-scanner.git"
 --------------------------------
-Module has been discontinued
+(yast-openvas-security-scanner) INFO: Module has been discontinued
 Cloning into yast-openvas-security-scanner...
 
 
@@ -911,7 +911,7 @@ Checking yast-openwsman-yast...
 
 Processing "yast-packagemanager-test.git"
 --------------------------------
-Module has been discontinued
+(yast-packagemanager-test) INFO: Module has been discontinued
 Cloning into yast-packagemanager-test...
 
 
@@ -923,7 +923,7 @@ fatal: bad default revision 'HEAD'
 
 Processing "yast-packagemanager.git"
 --------------------------------
-Module has been discontinued
+(yast-packagemanager) INFO: Module has been discontinued
 Cloning into yast-packagemanager...
 
 
@@ -980,7 +980,7 @@ Checking yast-pkg-bindings...
 
 Processing "yast-pos-installation.git"
 --------------------------------
-Module has been discontinued
+(yast-pos-installation) INFO: Module has been discontinued
 Cloning into yast-pos-installation...
 
 
@@ -1010,7 +1010,7 @@ Checking yast-printer...
 
 Processing "yast-printerdb.git"
 --------------------------------
-Module has been discontinued
+(yast-printerdb) INFO: Module has been discontinued
 Cloning into yast-printerdb...
 
 
@@ -1078,7 +1078,7 @@ Checking yast-qt...
 
 Processing "yast-qt3.git"
 --------------------------------
-Module has been discontinued
+(yast-qt3) INFO: Module has been discontinued
 Cloning into yast-qt3...
 warning: You appear to have cloned an empty repository.
 
@@ -1090,7 +1090,7 @@ fatal: bad default revision 'HEAD'
 
 Processing "yast-rdp.git"
 --------------------------------
-Module has been discontinued
+(yast-rdp) INFO: Module has been discontinued
 Cloning into yast-rdp...
 
 
@@ -1120,7 +1120,7 @@ Checking yast-reipl...
 
 Processing "yast-repair.git"
 --------------------------------
-Module has been discontinued
+(yast-repair) INFO: Module has been discontinued
 Cloning into yast-repair...
 
 
@@ -1150,7 +1150,7 @@ Checking yast-ruby-bindings...
 
 Processing "yast-rules.git"
 --------------------------------
-Module has been discontinued
+(yast-rules) INFO: Module has been discontinued
 Cloning into yast-rules...
 warning: You appear to have cloned an empty repository.
 
@@ -1225,7 +1225,7 @@ Checking yast-security...
 
 Processing "yast-slepos-image-builder.git"
 --------------------------------
-Module has been discontinued
+(yast-slepos-image-builder) INFO: Module has been discontinued
 Cloning into yast-slepos-image-builder...
 
 
@@ -1237,7 +1237,7 @@ fatal: bad default revision 'HEAD'
 
 Processing "yast-slepos-system-manager.git"
 --------------------------------
-Module has been discontinued
+(yast-slepos-system-manager) INFO: Module has been discontinued
 Cloning into yast-slepos-system-manager...
 
 
@@ -1303,7 +1303,7 @@ Checking yast-squid...
 
 Processing "yast-squidguard.git"
 --------------------------------
-Module has been discontinued
+(yast-squidguard) INFO: Module has been discontinued
 Cloning into yast-squidguard...
 
 
@@ -1369,7 +1369,7 @@ Checking yast-system-profile...
 
 Processing "yast-system-update.git"
 --------------------------------
-Module has been discontinued
+(yast-system-update) INFO: Module has been discontinued
 Cloning into yast-system-update...
 
 
@@ -1399,7 +1399,7 @@ Checking yast-tftp-server...
 
 Processing "yast-theme-ul.git"
 --------------------------------
-Module has been discontinued
+(yast-theme-ul) INFO: Module has been discontinued
 Cloning into yast-theme-ul...
 
 
@@ -1456,7 +1456,7 @@ Checking yast-ui_qt_tests...
 
 Processing "yast-uml.git"
 --------------------------------
-Module has been discontinued
+(yast-uml) INFO: Module has been discontinued
 Cloning into yast-uml...
 
 
@@ -1504,7 +1504,7 @@ Checking yast-wagon...
 
 Processing "yast-watcher.git"
 --------------------------------
-Module has been discontinued
+(yast-watcher) INFO: Module has been discontinued
 Cloning into yast-watcher...
 
 
@@ -1516,7 +1516,7 @@ fatal: bad default revision 'HEAD'
 
 Processing "yast-web-rails.git"
 --------------------------------
-Module has been discontinued
+(yast-web-rails) INFO: Module has been discontinued
 Cloning into yast-web-rails...
 warning: You appear to have cloned an empty repository.
 
@@ -1528,7 +1528,7 @@ fatal: bad default revision 'HEAD'
 
 Processing "yast-web-service.git"
 --------------------------------
-Module has been discontinued
+(yast-web-service) INFO: Module has been discontinued
 Cloning into yast-web-service...
 warning: You appear to have cloned an empty repository.
 
@@ -1540,7 +1540,7 @@ fatal: bad default revision 'HEAD'
 
 Processing "yast-web-wt.git"
 --------------------------------
-Module has been discontinued
+(yast-web-wt) INFO: Module has been discontinued
 Cloning into yast-web-wt...
 warning: You appear to have cloned an empty repository.
 
@@ -1552,7 +1552,7 @@ fatal: bad default revision 'HEAD'
 
 Processing "yast-wlanipsecclient.git"
 --------------------------------
-Module has been discontinued
+(yast-wlanipsecclient) INFO: Module has been discontinued
 Cloning into yast-wlanipsecclient...
 
 
@@ -1573,7 +1573,7 @@ Checking yast-x11...
 
 Processing "yast-x11.sav.git"
 --------------------------------
-Module has been discontinued
+(yast-x11.sav) INFO: Module has been discontinued
 Cloning into yast-x11.sav...
 warning: You appear to have cloned an empty repository.
 
@@ -1594,7 +1594,7 @@ Checking yast-xml...
 
 Processing "yast-y2khtml.git"
 --------------------------------
-Module has been discontinued
+(yast-y2khtml) INFO: Module has been discontinued
 Cloning into yast-y2khtml...
 
 
@@ -1606,7 +1606,7 @@ fatal: bad default revision 'HEAD'
 
 Processing "yast-y2pmsh.git"
 --------------------------------
-Module has been discontinued
+(yast-y2pmsh) INFO: Module has been discontinued
 Cloning into yast-y2pmsh...
 
 
@@ -1636,7 +1636,7 @@ Checking yast-ycp-ui-bindings...
 
 Processing "yast-you-server.git"
 --------------------------------
-Module has been discontinued
+(yast-you-server) INFO: Module has been discontinued
 Cloning into yast-you-server...
 
 

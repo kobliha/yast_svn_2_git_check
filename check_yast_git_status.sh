@@ -66,7 +66,7 @@ for ONE_REPO in ${ALL_REPOS}; do
         fi
 
         if [ "${DISCONTINUED}" == "${REPO_DIR}" ]; then
-            echo "Module has been discontinued"
+            echo "(${REPO_DIR}) INFO: Module has been discontinued"
             grep -v "warning: remote HEAD refers to nonexistent ref, unable to checkout." ${TMPFILE}
         else
             cat ${TMPFILE}
