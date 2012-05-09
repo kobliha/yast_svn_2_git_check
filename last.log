@@ -1,5 +1,5 @@
 =============================================
-Mon Mar 12 10:23:14 CET 2012
+Wed May  9 11:38:29 CEST 2012
 =============================================
 Processing "yast-OPENSSL.git"
 --------------------------------
@@ -96,7 +96,7 @@ Cloning into yast-bluetooth...
 
 Checking yast-bluetooth...
 fatal: bad default revision 'HEAD'
-- There are 11 branches
+- There are 12 branches
 - There are 17 tags
 - There are 0 commits in the current branch
 
@@ -105,7 +105,7 @@ Processing "yast-boot-server.git"
 Already up-to-date.
 
 Checking yast-boot-server...
-- There are 21 branches
+- There are 22 branches
 - There are 10 tags
 - There are 34 commits in the current branch
 
@@ -114,7 +114,7 @@ Processing "yast-bootloader.git"
 Already up-to-date.
 
 Checking yast-bootloader...
-- There are 21 branches
+- There are 22 branches
 - There are 355 tags
 - There are 1590 commits in the current branch
 
@@ -141,7 +141,7 @@ Processing "yast-ca-management.git"
 Already up-to-date.
 
 Checking yast-ca-management...
-- There are 22 branches
+- There are 23 branches
 - There are 98 tags
 - There are 530 commits in the current branch
 
@@ -165,7 +165,7 @@ Cloning into yast-certify...
 
 Checking yast-certify...
 fatal: bad default revision 'HEAD'
-- There are 11 branches
+- There are 12 branches
 - There are 2 tags
 - There are 0 commits in the current branch
 
@@ -730,14 +730,11 @@ Checking yast-mysql-server...
 
 Processing "yast-ncurses-pkg.git"
 --------------------------------
-Cloning into yast-ncurses-pkg...
-warning: You appear to have cloned an empty repository.
 
 Checking yast-ncurses-pkg...
-fatal: bad default revision 'HEAD'
-(yast-ncurses-pkg) ERROR: No branches available
-(yast-ncurses-pkg) WARNING: No tags available
-- There are 0 commits in the current branch
+- There are 10 branches
+- There are 49 tags
+- There are 215 commits in the current branch
 
 Processing "yast-ncurses.git"
 --------------------------------
@@ -750,36 +747,27 @@ Checking yast-ncurses...
 
 Processing "yast-network.git"
 --------------------------------
-Cloning into yast-network...
-warning: You appear to have cloned an empty repository.
 
 Checking yast-network...
-fatal: bad default revision 'HEAD'
-(yast-network) ERROR: No branches available
-(yast-network) WARNING: No tags available
-- There are 0 commits in the current branch
+- There are 22 branches
+- There are 595 tags
+- There are 2035 commits in the current branch
 
 Processing "yast-nfs-client.git"
 --------------------------------
-Cloning into yast-nfs-client...
-warning: You appear to have cloned an empty repository.
 
 Checking yast-nfs-client...
-fatal: bad default revision 'HEAD'
-(yast-nfs-client) ERROR: No branches available
-(yast-nfs-client) WARNING: No tags available
-- There are 0 commits in the current branch
+- There are 22 branches
+- There are 42 tags
+- There are 342 commits in the current branch
 
 Processing "yast-nfs-server.git"
 --------------------------------
-Cloning into yast-nfs-server...
-warning: You appear to have cloned an empty repository.
 
 Checking yast-nfs-server...
-fatal: bad default revision 'HEAD'
-(yast-nfs-server) ERROR: No branches available
-(yast-nfs-server) WARNING: No tags available
-- There are 0 commits in the current branch
+- There are 21 branches
+- There are 38 tags
+- There are 293 commits in the current branch
 
 Processing "yast-nfscim.git"
 --------------------------------
@@ -795,254 +783,215 @@ fatal: bad default revision 'HEAD'
 
 Processing "yast-nis-client.git"
 --------------------------------
-Cloning into yast-nis-client...
-warning: You appear to have cloned an empty repository.
 
 Checking yast-nis-client...
-fatal: bad default revision 'HEAD'
-(yast-nis-client) ERROR: No branches available
-(yast-nis-client) WARNING: No tags available
-- There are 0 commits in the current branch
+- There are 21 branches
+- There are 53 tags
+- There are 406 commits in the current branch
 
 Processing "yast-nis-server.git"
 --------------------------------
-Cloning into yast-nis-server...
-warning: You appear to have cloned an empty repository.
 
 Checking yast-nis-server...
-fatal: bad default revision 'HEAD'
-(yast-nis-server) ERROR: No branches available
-(yast-nis-server) WARNING: No tags available
-- There are 0 commits in the current branch
+- There are 21 branches
+- There are 35 tags
+- There are 339 commits in the current branch
 
 Processing "yast-ntp-client.git"
 --------------------------------
-Cloning into yast-ntp-client...
-warning: You appear to have cloned an empty repository.
 
 Checking yast-ntp-client...
-fatal: bad default revision 'HEAD'
-(yast-ntp-client) ERROR: No branches available
-(yast-ntp-client) WARNING: No tags available
-- There are 0 commits in the current branch
+- There are 22 branches
+- There are 76 tags
+- There are 345 commits in the current branch
 
 Processing "yast-ntsutils.git"
 --------------------------------
 (yast-ntsutils) INFO: Module has been discontinued
 Cloning into yast-ntsutils...
-warning: You appear to have cloned an empty repository.
+
 
 Checking yast-ntsutils...
 fatal: bad default revision 'HEAD'
-(yast-ntsutils) ERROR: No branches available
-(yast-ntsutils) WARNING: No tags available
+- There are 5 branches
+- There are 1 tags
 - There are 0 commits in the current branch
 
 Processing "yast-oem-installation.git"
 --------------------------------
 (yast-oem-installation) INFO: Module has been discontinued
 Cloning into yast-oem-installation...
-warning: You appear to have cloned an empty repository.
+
 
 Checking yast-oem-installation...
 fatal: bad default revision 'HEAD'
-(yast-oem-installation) ERROR: No branches available
-(yast-oem-installation) WARNING: No tags available
+- There are 2 branches
+- There are 2 tags
 - There are 0 commits in the current branch
 
 Processing "yast-online-update-configuration.git"
 --------------------------------
-Cloning into yast-online-update-configuration...
-warning: You appear to have cloned an empty repository.
 
 Checking yast-online-update-configuration...
-fatal: bad default revision 'HEAD'
-(yast-online-update-configuration) ERROR: No branches available
-(yast-online-update-configuration) WARNING: No tags available
-- There are 0 commits in the current branch
+- There are 5 branches
+- There are 1 tags
+- There are 13 commits in the current branch
 
 Processing "yast-online-update-test.git"
 --------------------------------
 (yast-online-update-test) INFO: Module has been discontinued
 Cloning into yast-online-update-test...
-warning: You appear to have cloned an empty repository.
+
 
 Checking yast-online-update-test...
 fatal: bad default revision 'HEAD'
-(yast-online-update-test) ERROR: No branches available
-(yast-online-update-test) WARNING: No tags available
+- There are 2 branches
+- There are 3 tags
 - There are 0 commits in the current branch
 
 Processing "yast-online-update.git"
 --------------------------------
-Cloning into yast-online-update...
-warning: You appear to have cloned an empty repository.
 
 Checking yast-online-update...
-fatal: bad default revision 'HEAD'
-(yast-online-update) ERROR: No branches available
-(yast-online-update) WARNING: No tags available
-- There are 0 commits in the current branch
+- There are 21 branches
+- There are 180 tags
+- There are 738 commits in the current branch
 
 Processing "yast-openschool.git"
 --------------------------------
 (yast-openschool) INFO: Module has been discontinued
 Cloning into yast-openschool...
-warning: You appear to have cloned an empty repository.
+
 
 Checking yast-openschool...
 fatal: bad default revision 'HEAD'
-(yast-openschool) ERROR: No branches available
-(yast-openschool) WARNING: No tags available
+- There are 2 branches
+- There are 2 tags
 - There are 0 commits in the current branch
 
 Processing "yast-openteam.git"
 --------------------------------
 (yast-openteam) INFO: Module has been discontinued
 Cloning into yast-openteam...
-warning: You appear to have cloned an empty repository.
+
 
 Checking yast-openteam...
 fatal: bad default revision 'HEAD'
-(yast-openteam) ERROR: No branches available
-(yast-openteam) WARNING: No tags available
+- There are 2 branches
+- There are 2 tags
 - There are 0 commits in the current branch
 
 Processing "yast-openvas-security-scanner.git"
 --------------------------------
 (yast-openvas-security-scanner) INFO: Module has been discontinued
 Cloning into yast-openvas-security-scanner...
-warning: You appear to have cloned an empty repository.
+
 
 Checking yast-openvas-security-scanner...
 fatal: bad default revision 'HEAD'
-(yast-openvas-security-scanner) ERROR: No branches available
-(yast-openvas-security-scanner) WARNING: No tags available
+(yast-openvas-security-scanner) WARNING: Only one branch available
+- There are 5 tags
 - There are 0 commits in the current branch
 
 Processing "yast-openwsman-yast.git"
 --------------------------------
-Cloning into yast-openwsman-yast...
-warning: You appear to have cloned an empty repository.
 
 Checking yast-openwsman-yast...
-fatal: bad default revision 'HEAD'
-(yast-openwsman-yast) ERROR: No branches available
+- There are 10 branches
 (yast-openwsman-yast) WARNING: No tags available
-- There are 0 commits in the current branch
+- There are 27 commits in the current branch
 
 Processing "yast-packagemanager-test.git"
 --------------------------------
 (yast-packagemanager-test) INFO: Module has been discontinued
 Cloning into yast-packagemanager-test...
-warning: You appear to have cloned an empty repository.
+
 
 Checking yast-packagemanager-test...
 fatal: bad default revision 'HEAD'
-(yast-packagemanager-test) ERROR: No branches available
-(yast-packagemanager-test) WARNING: No tags available
+- There are 12 branches
+- There are 3 tags
 - There are 0 commits in the current branch
 
 Processing "yast-packagemanager.git"
 --------------------------------
 (yast-packagemanager) INFO: Module has been discontinued
 Cloning into yast-packagemanager...
-warning: You appear to have cloned an empty repository.
+
 
 Checking yast-packagemanager...
 fatal: bad default revision 'HEAD'
-(yast-packagemanager) ERROR: No branches available
-(yast-packagemanager) WARNING: No tags available
+- There are 12 branches
+- There are 61 tags
 - There are 0 commits in the current branch
 
 Processing "yast-packager.git"
 --------------------------------
-Cloning into yast-packager...
-warning: You appear to have cloned an empty repository.
 
 Checking yast-packager...
-fatal: bad default revision 'HEAD'
-(yast-packager) ERROR: No branches available
-(yast-packager) WARNING: No tags available
-- There are 0 commits in the current branch
+- There are 22 branches
+- There are 552 tags
+- There are 2243 commits in the current branch
 
 Processing "yast-pam.git"
 --------------------------------
-Cloning into yast-pam...
-warning: You appear to have cloned an empty repository.
 
 Checking yast-pam...
-fatal: bad default revision 'HEAD'
-(yast-pam) ERROR: No branches available
-(yast-pam) WARNING: No tags available
-- There are 0 commits in the current branch
+- There are 22 branches
+- There are 32 tags
+- There are 107 commits in the current branch
 
 Processing "yast-perl-bindings.git"
 --------------------------------
-Cloning into yast-perl-bindings...
-warning: You appear to have cloned an empty repository.
 
 Checking yast-perl-bindings...
-fatal: bad default revision 'HEAD'
-(yast-perl-bindings) ERROR: No branches available
-(yast-perl-bindings) WARNING: No tags available
-- There are 0 commits in the current branch
+- There are 21 branches
+- There are 39 tags
+- There are 250 commits in the current branch
 
 Processing "yast-phone-services.git"
 --------------------------------
-Cloning into yast-phone-services...
-warning: You appear to have cloned an empty repository.
 
 Checking yast-phone-services...
-fatal: bad default revision 'HEAD'
-(yast-phone-services) ERROR: No branches available
-(yast-phone-services) WARNING: No tags available
-- There are 0 commits in the current branch
+- There are 21 branches
+- There are 12 tags
+- There are 109 commits in the current branch
 
 Processing "yast-pkg-bindings.git"
 --------------------------------
-Cloning into yast-pkg-bindings...
-warning: You appear to have cloned an empty repository.
 
 Checking yast-pkg-bindings...
-fatal: bad default revision 'HEAD'
-(yast-pkg-bindings) ERROR: No branches available
-(yast-pkg-bindings) WARNING: No tags available
-- There are 0 commits in the current branch
+- There are 22 branches
+- There are 334 tags
+- There are 736 commits in the current branch
 
 Processing "yast-pos-installation.git"
 --------------------------------
 (yast-pos-installation) INFO: Module has been discontinued
 Cloning into yast-pos-installation...
-warning: You appear to have cloned an empty repository.
+
 
 Checking yast-pos-installation...
 fatal: bad default revision 'HEAD'
-(yast-pos-installation) ERROR: No branches available
-(yast-pos-installation) WARNING: No tags available
+- There are 7 branches
+- There are 26 tags
 - There are 0 commits in the current branch
 
 Processing "yast-power-management.git"
 --------------------------------
-Cloning into yast-power-management...
-warning: You appear to have cloned an empty repository.
 
 Checking yast-power-management...
-fatal: bad default revision 'HEAD'
-(yast-power-management) ERROR: No branches available
-(yast-power-management) WARNING: No tags available
-- There are 0 commits in the current branch
+- There are 19 branches
+- There are 38 tags
+- There are 141 commits in the current branch
 
 Processing "yast-printer.git"
 --------------------------------
-Cloning into yast-printer...
-warning: You appear to have cloned an empty repository.
 
 Checking yast-printer...
-fatal: bad default revision 'HEAD'
-(yast-printer) ERROR: No branches available
-(yast-printer) WARNING: No tags available
-- There are 0 commits in the current branch
+- There are 21 branches
+- There are 207 tags
+- There are 210 commits in the current branch
 
 Processing "yast-printerdb.git"
 --------------------------------
@@ -1058,47 +1007,35 @@ fatal: bad default revision 'HEAD'
 
 Processing "yast-product-creator.git"
 --------------------------------
-Cloning into yast-product-creator...
-warning: You appear to have cloned an empty repository.
 
 Checking yast-product-creator...
-fatal: bad default revision 'HEAD'
-(yast-product-creator) ERROR: No branches available
-(yast-product-creator) WARNING: No tags available
-- There are 0 commits in the current branch
+- There are 15 branches
+- There are 159 tags
+- There are 188 commits in the current branch
 
 Processing "yast-profile-manager.git"
 --------------------------------
-Cloning into yast-profile-manager...
-warning: You appear to have cloned an empty repository.
 
 Checking yast-profile-manager...
-fatal: bad default revision 'HEAD'
-(yast-profile-manager) ERROR: No branches available
-(yast-profile-manager) WARNING: No tags available
-- There are 0 commits in the current branch
+- There are 22 branches
+- There are 27 tags
+- There are 197 commits in the current branch
 
 Processing "yast-python-bindings.git"
 --------------------------------
-Cloning into yast-python-bindings...
-warning: You appear to have cloned an empty repository.
 
 Checking yast-python-bindings...
-fatal: bad default revision 'HEAD'
-(yast-python-bindings) ERROR: No branches available
-(yast-python-bindings) WARNING: No tags available
-- There are 0 commits in the current branch
+- There are 13 branches
+- There are 18 tags
+- There are 81 commits in the current branch
 
 Processing "yast-qt-graph.git"
 --------------------------------
-Cloning into yast-qt-graph...
-warning: You appear to have cloned an empty repository.
 
 Checking yast-qt-graph...
-fatal: bad default revision 'HEAD'
-(yast-qt-graph) ERROR: No branches available
+- There are 6 branches
 (yast-qt-graph) WARNING: No tags available
-- There are 0 commits in the current branch
+- There are 68 commits in the current branch
 
 Processing "yast-qt-pkg.git"
 --------------------------------
@@ -1113,14 +1050,11 @@ fatal: bad default revision 'HEAD'
 
 Processing "yast-qt.git"
 --------------------------------
-Cloning into yast-qt...
-warning: You appear to have cloned an empty repository.
 
 Checking yast-qt...
-fatal: bad default revision 'HEAD'
-(yast-qt) ERROR: No branches available
-(yast-qt) WARNING: No tags available
-- There are 0 commits in the current branch
+- There are 22 branches
+- There are 129 tags
+- There are 449 commits in the current branch
 
 Processing "yast-qt3.git"
 --------------------------------
@@ -1138,12 +1072,12 @@ Processing "yast-rdp.git"
 --------------------------------
 (yast-rdp) INFO: Module has been discontinued
 Cloning into yast-rdp...
-warning: You appear to have cloned an empty repository.
+
 
 Checking yast-rdp...
 fatal: bad default revision 'HEAD'
-(yast-rdp) ERROR: No branches available
-(yast-rdp) WARNING: No tags available
+- There are 2 branches
+- There are 2 tags
 - There are 0 commits in the current branch
 
 Processing "yast-registration.git"
@@ -1157,48 +1091,39 @@ Checking yast-registration...
 
 Processing "yast-reipl.git"
 --------------------------------
-Cloning into yast-reipl...
-warning: You appear to have cloned an empty repository.
 
 Checking yast-reipl...
-fatal: bad default revision 'HEAD'
-(yast-reipl) ERROR: No branches available
-(yast-reipl) WARNING: No tags available
-- There are 0 commits in the current branch
+- There are 10 branches
+- There are 10 tags
+- There are 35 commits in the current branch
 
 Processing "yast-repair.git"
 --------------------------------
 (yast-repair) INFO: Module has been discontinued
 Cloning into yast-repair...
-warning: You appear to have cloned an empty repository.
+
 
 Checking yast-repair...
 fatal: bad default revision 'HEAD'
-(yast-repair) ERROR: No branches available
-(yast-repair) WARNING: No tags available
+- There are 19 branches
+- There are 72 tags
 - There are 0 commits in the current branch
 
 Processing "yast-restore.git"
 --------------------------------
-Cloning into yast-restore...
-warning: You appear to have cloned an empty repository.
 
 Checking yast-restore...
-fatal: bad default revision 'HEAD'
-(yast-restore) ERROR: No branches available
-(yast-restore) WARNING: No tags available
-- There are 0 commits in the current branch
+- There are 22 branches
+- There are 34 tags
+- There are 160 commits in the current branch
 
 Processing "yast-ruby-bindings.git"
 --------------------------------
-Cloning into yast-ruby-bindings...
-warning: You appear to have cloned an empty repository.
 
 Checking yast-ruby-bindings...
-fatal: bad default revision 'HEAD'
-(yast-ruby-bindings) ERROR: No branches available
-(yast-ruby-bindings) WARNING: No tags available
-- There are 0 commits in the current branch
+- There are 10 branches
+- There are 1 tags
+- There are 87 commits in the current branch
 
 Processing "yast-rules.git"
 --------------------------------
@@ -1214,126 +1139,99 @@ fatal: bad default revision 'HEAD'
 
 Processing "yast-runlevel.git"
 --------------------------------
-Cloning into yast-runlevel...
-warning: You appear to have cloned an empty repository.
 
 Checking yast-runlevel...
-fatal: bad default revision 'HEAD'
-(yast-runlevel) ERROR: No branches available
-(yast-runlevel) WARNING: No tags available
-- There are 0 commits in the current branch
+- There are 22 branches
+- There are 53 tags
+- There are 348 commits in the current branch
 
 Processing "yast-s390.git"
 --------------------------------
-Cloning into yast-s390...
-warning: You appear to have cloned an empty repository.
 
 Checking yast-s390...
-fatal: bad default revision 'HEAD'
-(yast-s390) ERROR: No branches available
-(yast-s390) WARNING: No tags available
-- There are 0 commits in the current branch
+- There are 22 branches
+- There are 87 tags
+- There are 200 commits in the current branch
 
 Processing "yast-samba-client.git"
 --------------------------------
-Cloning into yast-samba-client...
-warning: You appear to have cloned an empty repository.
 
 Checking yast-samba-client...
-fatal: bad default revision 'HEAD'
-(yast-samba-client) ERROR: No branches available
-(yast-samba-client) WARNING: No tags available
-- There are 0 commits in the current branch
+- There are 22 branches
+- There are 142 tags
+- There are 237 commits in the current branch
 
 Processing "yast-samba-server.git"
 --------------------------------
-Cloning into yast-samba-server...
-warning: You appear to have cloned an empty repository.
 
 Checking yast-samba-server...
-fatal: bad default revision 'HEAD'
-(yast-samba-server) ERROR: No branches available
-(yast-samba-server) WARNING: No tags available
-- There are 0 commits in the current branch
+- There are 21 branches
+- There are 91 tags
+- There are 285 commits in the current branch
 
 Processing "yast-scanner.git"
 --------------------------------
-Cloning into yast-scanner...
-warning: You appear to have cloned an empty repository.
 
 Checking yast-scanner...
-fatal: bad default revision 'HEAD'
-(yast-scanner) ERROR: No branches available
-(yast-scanner) WARNING: No tags available
-- There are 0 commits in the current branch
+- There are 21 branches
+- There are 81 tags
+- There are 547 commits in the current branch
 
 Processing "yast-schema.git"
 --------------------------------
-Cloning into yast-schema...
-warning: You appear to have cloned an empty repository.
 
 Checking yast-schema...
-fatal: bad default revision 'HEAD'
-(yast-schema) ERROR: No branches available
-(yast-schema) WARNING: No tags available
-- There are 0 commits in the current branch
+- There are 22 branches
+- There are 21 tags
+- There are 41 commits in the current branch
 
 Processing "yast-security.git"
 --------------------------------
-Cloning into yast-security...
-warning: You appear to have cloned an empty repository.
 
 Checking yast-security...
-fatal: bad default revision 'HEAD'
-(yast-security) ERROR: No branches available
-(yast-security) WARNING: No tags available
-- There are 0 commits in the current branch
+- There are 22 branches
+- There are 58 tags
+- There are 364 commits in the current branch
 
 Processing "yast-slepos-image-builder.git"
 --------------------------------
 (yast-slepos-image-builder) INFO: Module has been discontinued
 Cloning into yast-slepos-image-builder...
-warning: You appear to have cloned an empty repository.
+
 
 Checking yast-slepos-image-builder...
 fatal: bad default revision 'HEAD'
-(yast-slepos-image-builder) ERROR: No branches available
-(yast-slepos-image-builder) WARNING: No tags available
+- There are 4 branches
+- There are 1 tags
 - There are 0 commits in the current branch
 
 Processing "yast-slepos-system-manager.git"
 --------------------------------
 (yast-slepos-system-manager) INFO: Module has been discontinued
 Cloning into yast-slepos-system-manager...
-warning: You appear to have cloned an empty repository.
+
 
 Checking yast-slepos-system-manager...
 fatal: bad default revision 'HEAD'
-(yast-slepos-system-manager) ERROR: No branches available
-(yast-slepos-system-manager) WARNING: No tags available
+- There are 4 branches
+- There are 1 tags
 - There are 0 commits in the current branch
 
 Processing "yast-slide-show.git"
 --------------------------------
-Cloning into yast-slide-show...
-warning: You appear to have cloned an empty repository.
 
 Checking yast-slide-show...
-fatal: bad default revision 'HEAD'
-(yast-slide-show) ERROR: No branches available
-(yast-slide-show) WARNING: No tags available
-- There are 0 commits in the current branch
+- There are 22 branches
+- There are 114 tags
+- There are 637 commits in the current branch
 
 Processing "yast-slp-server.git"
 --------------------------------
-Cloning into yast-slp-server...
-warning: You appear to have cloned an empty repository.
 
 Checking yast-slp-server...
-fatal: bad default revision 'HEAD'
-(yast-slp-server) ERROR: No branches available
-(yast-slp-server) WARNING: No tags available
-- There are 0 commits in the current branch
+- There are 19 branches
+- There are 35 tags
+- There are 68 commits in the current branch
 
 Processing "yast-slp.git"
 --------------------------------
@@ -1346,148 +1244,115 @@ Checking yast-slp...
 
 Processing "yast-snapper.git"
 --------------------------------
-Cloning into yast-snapper...
-warning: You appear to have cloned an empty repository.
 
 Checking yast-snapper...
-fatal: bad default revision 'HEAD'
-(yast-snapper) ERROR: No branches available
-(yast-snapper) WARNING: No tags available
-- There are 0 commits in the current branch
+- There are 4 branches
+- There are 35 tags
+- There are 49 commits in the current branch
 
 Processing "yast-sound.git"
 --------------------------------
-Cloning into yast-sound...
-warning: You appear to have cloned an empty repository.
 
 Checking yast-sound...
-fatal: bad default revision 'HEAD'
-(yast-sound) ERROR: No branches available
-(yast-sound) WARNING: No tags available
-- There are 0 commits in the current branch
+- There are 22 branches
+- There are 108 tags
+- There are 765 commits in the current branch
 
 Processing "yast-squid.git"
 --------------------------------
-Cloning into yast-squid...
-warning: You appear to have cloned an empty repository.
 
 Checking yast-squid...
-fatal: bad default revision 'HEAD'
-(yast-squid) ERROR: No branches available
-(yast-squid) WARNING: No tags available
-- There are 0 commits in the current branch
+- There are 10 branches
+- There are 24 tags
+- There are 81 commits in the current branch
 
 Processing "yast-squidguard.git"
 --------------------------------
 (yast-squidguard) INFO: Module has been discontinued
 Cloning into yast-squidguard...
-warning: You appear to have cloned an empty repository.
+
 
 Checking yast-squidguard...
 fatal: bad default revision 'HEAD'
-(yast-squidguard) ERROR: No branches available
-(yast-squidguard) WARNING: No tags available
+- There are 8 branches
+- There are 1 tags
 - There are 0 commits in the current branch
 
 Processing "yast-sshd.git"
 --------------------------------
-Cloning into yast-sshd...
-warning: You appear to have cloned an empty repository.
 
 Checking yast-sshd...
-fatal: bad default revision 'HEAD'
-(yast-sshd) ERROR: No branches available
-(yast-sshd) WARNING: No tags available
-- There are 0 commits in the current branch
+- There are 10 branches
+- There are 16 tags
+- There are 37 commits in the current branch
 
 Processing "yast-storage.git"
 --------------------------------
-Cloning into yast-storage...
-warning: You appear to have cloned an empty repository.
 
 Checking yast-storage...
-fatal: bad default revision 'HEAD'
-(yast-storage) ERROR: No branches available
-(yast-storage) WARNING: No tags available
-- There are 0 commits in the current branch
+- There are 21 branches
+- There are 387 tags
+- There are 3332 commits in the current branch
 
 Processing "yast-sudo.git"
 --------------------------------
-Cloning into yast-sudo...
-warning: You appear to have cloned an empty repository.
 
 Checking yast-sudo...
-fatal: bad default revision 'HEAD'
-(yast-sudo) ERROR: No branches available
-(yast-sudo) WARNING: No tags available
-- There are 0 commits in the current branch
+- There are 13 branches
+- There are 18 tags
+- There are 68 commits in the current branch
 
 Processing "yast-support.git"
 --------------------------------
-Cloning into yast-support...
-warning: You appear to have cloned an empty repository.
 
 Checking yast-support...
-fatal: bad default revision 'HEAD'
-(yast-support) ERROR: No branches available
-(yast-support) WARNING: No tags available
-- There are 0 commits in the current branch
+- There are 21 branches
+- There are 49 tags
+- There are 45 commits in the current branch
 
 Processing "yast-sysconfig.git"
 --------------------------------
-Cloning into yast-sysconfig...
-warning: You appear to have cloned an empty repository.
 
 Checking yast-sysconfig...
-fatal: bad default revision 'HEAD'
-(yast-sysconfig) ERROR: No branches available
-(yast-sysconfig) WARNING: No tags available
-- There are 0 commits in the current branch
+- There are 21 branches
+- There are 26 tags
+- There are 280 commits in the current branch
 
 Processing "yast-system-profile.git"
 --------------------------------
-Cloning into yast-system-profile...
-warning: You appear to have cloned an empty repository.
 
 Checking yast-system-profile...
-fatal: bad default revision 'HEAD'
-(yast-system-profile) ERROR: No branches available
-(yast-system-profile) WARNING: No tags available
-- There are 0 commits in the current branch
+- There are 8 branches
+- There are 4 tags
+- There are 18 commits in the current branch
 
 Processing "yast-system-update.git"
 --------------------------------
 (yast-system-update) INFO: Module has been discontinued
 Cloning into yast-system-update...
-warning: You appear to have cloned an empty repository.
+
 
 Checking yast-system-update...
 fatal: bad default revision 'HEAD'
-(yast-system-update) ERROR: No branches available
-(yast-system-update) WARNING: No tags available
+- There are 6 branches
+- There are 1 tags
 - There are 0 commits in the current branch
 
 Processing "yast-testsuite.git"
 --------------------------------
-Cloning into yast-testsuite...
-warning: You appear to have cloned an empty repository.
 
 Checking yast-testsuite...
-fatal: bad default revision 'HEAD'
-(yast-testsuite) ERROR: No branches available
-(yast-testsuite) WARNING: No tags available
-- There are 0 commits in the current branch
+- There are 22 branches
+- There are 17 tags
+- There are 116 commits in the current branch
 
 Processing "yast-tftp-server.git"
 --------------------------------
-Cloning into yast-tftp-server...
-warning: You appear to have cloned an empty repository.
 
 Checking yast-tftp-server...
-fatal: bad default revision 'HEAD'
-(yast-tftp-server) ERROR: No branches available
-(yast-tftp-server) WARNING: No tags available
-- There are 0 commits in the current branch
+- There are 21 branches
+- There are 20 tags
+- There are 76 commits in the current branch
 
 Processing "yast-theme-ul.git"
 --------------------------------
@@ -1503,114 +1368,87 @@ fatal: bad default revision 'HEAD'
 
 Processing "yast-theme.git"
 --------------------------------
-Cloning into yast-theme...
-warning: You appear to have cloned an empty repository.
 
 Checking yast-theme...
-fatal: bad default revision 'HEAD'
-(yast-theme) ERROR: No branches available
-(yast-theme) WARNING: No tags available
-- There are 0 commits in the current branch
+- There are 22 branches
+- There are 87 tags
+- There are 515 commits in the current branch
 
 Processing "yast-transfer.git"
 --------------------------------
-Cloning into yast-transfer...
-warning: You appear to have cloned an empty repository.
 
 Checking yast-transfer...
-fatal: bad default revision 'HEAD'
-(yast-transfer) ERROR: No branches available
-(yast-transfer) WARNING: No tags available
-- There are 0 commits in the current branch
+- There are 22 branches
+- There are 11 tags
+- There are 81 commits in the current branch
 
 Processing "yast-tune.git"
 --------------------------------
-Cloning into yast-tune...
-warning: You appear to have cloned an empty repository.
 
 Checking yast-tune...
-fatal: bad default revision 'HEAD'
-(yast-tune) ERROR: No branches available
-(yast-tune) WARNING: No tags available
-- There are 0 commits in the current branch
+- There are 21 branches
+- There are 51 tags
+- There are 254 commits in the current branch
 
 Processing "yast-tv.git"
 --------------------------------
-Cloning into yast-tv...
-warning: You appear to have cloned an empty repository.
 
 Checking yast-tv...
-fatal: bad default revision 'HEAD'
-(yast-tv) ERROR: No branches available
-(yast-tv) WARNING: No tags available
-- There are 0 commits in the current branch
+- There are 21 branches
+- There are 58 tags
+- There are 248 commits in the current branch
 
 Processing "yast-ui_qt_tests.git"
 --------------------------------
-Cloning into yast-ui_qt_tests...
-warning: You appear to have cloned an empty repository.
 
 Checking yast-ui_qt_tests...
-fatal: bad default revision 'HEAD'
-(yast-ui_qt_tests) ERROR: No branches available
+- There are 3 branches
 (yast-ui_qt_tests) WARNING: No tags available
-- There are 0 commits in the current branch
+- There are 1 commits in the current branch
 
 Processing "yast-uml.git"
 --------------------------------
 (yast-uml) INFO: Module has been discontinued
 Cloning into yast-uml...
-warning: You appear to have cloned an empty repository.
+
 
 Checking yast-uml...
 fatal: bad default revision 'HEAD'
-(yast-uml) ERROR: No branches available
-(yast-uml) WARNING: No tags available
+- There are 2 branches
+- There are 8 tags
 - There are 0 commits in the current branch
 
 Processing "yast-update.git"
 --------------------------------
-Cloning into yast-update...
-warning: You appear to have cloned an empty repository.
 
 Checking yast-update...
-fatal: bad default revision 'HEAD'
-(yast-update) ERROR: No branches available
-(yast-update) WARNING: No tags available
-- There are 0 commits in the current branch
+- There are 22 branches
+- There are 159 tags
+- There are 676 commits in the current branch
 
 Processing "yast-users.git"
 --------------------------------
-Cloning into yast-users...
-warning: You appear to have cloned an empty repository.
 
 Checking yast-users...
-fatal: bad default revision 'HEAD'
-(yast-users) ERROR: No branches available
-(yast-users) WARNING: No tags available
-- There are 0 commits in the current branch
+- There are 22 branches
+- There are 277 tags
+- There are 1006 commits in the current branch
 
 Processing "yast-vm.git"
 --------------------------------
-Cloning into yast-vm...
-warning: You appear to have cloned an empty repository.
 
 Checking yast-vm...
-fatal: bad default revision 'HEAD'
-(yast-vm) ERROR: No branches available
-(yast-vm) WARNING: No tags available
-- There are 0 commits in the current branch
+- There are 21 branches
+- There are 120 tags
+- There are 158 commits in the current branch
 
 Processing "yast-wagon.git"
 --------------------------------
-Cloning into yast-wagon...
-warning: You appear to have cloned an empty repository.
 
 Checking yast-wagon...
-fatal: bad default revision 'HEAD'
-(yast-wagon) ERROR: No branches available
-(yast-wagon) WARNING: No tags available
-- There are 0 commits in the current branch
+- There are 9 branches
+- There are 50 tags
+- There are 109 commits in the current branch
 
 Processing "yast-watcher.git"
 --------------------------------
@@ -1674,14 +1512,11 @@ fatal: bad default revision 'HEAD'
 
 Processing "yast-x11.git"
 --------------------------------
-Cloning into yast-x11...
-warning: You appear to have cloned an empty repository.
 
 Checking yast-x11...
-fatal: bad default revision 'HEAD'
-(yast-x11) ERROR: No branches available
-(yast-x11) WARNING: No tags available
-- There are 0 commits in the current branch
+- There are 21 branches
+- There are 43 tags
+- There are 397 commits in the current branch
 
 Processing "yast-x11.sav.git"
 --------------------------------
@@ -1697,14 +1532,11 @@ fatal: bad default revision 'HEAD'
 
 Processing "yast-xml.git"
 --------------------------------
-Cloning into yast-xml...
-warning: You appear to have cloned an empty repository.
 
 Checking yast-xml...
-fatal: bad default revision 'HEAD'
-(yast-xml) ERROR: No branches available
-(yast-xml) WARNING: No tags available
-- There are 0 commits in the current branch
+- There are 21 branches
+- There are 13 tags
+- There are 100 commits in the current branch
 
 Processing "yast-y2khtml.git"
 --------------------------------
@@ -1722,56 +1554,47 @@ Processing "yast-y2pmsh.git"
 --------------------------------
 (yast-y2pmsh) INFO: Module has been discontinued
 Cloning into yast-y2pmsh...
-warning: You appear to have cloned an empty repository.
+
 
 Checking yast-y2pmsh...
 fatal: bad default revision 'HEAD'
-(yast-y2pmsh) ERROR: No branches available
-(yast-y2pmsh) WARNING: No tags available
+- There are 12 branches
+- There are 15 tags
 - There are 0 commits in the current branch
 
 Processing "yast-yast2.git"
 --------------------------------
-Cloning into yast-yast2...
-warning: You appear to have cloned an empty repository.
 
 Checking yast-yast2...
-fatal: bad default revision 'HEAD'
-(yast-yast2) ERROR: No branches available
-(yast-yast2) WARNING: No tags available
-- There are 0 commits in the current branch
+- There are 22 branches
+- There are 489 tags
+- There are 2509 commits in the current branch
 
 Processing "yast-ycp-ui-bindings.git"
 --------------------------------
-Cloning into yast-ycp-ui-bindings...
-warning: You appear to have cloned an empty repository.
 
 Checking yast-ycp-ui-bindings...
-fatal: bad default revision 'HEAD'
-(yast-ycp-ui-bindings) ERROR: No branches available
-(yast-ycp-ui-bindings) WARNING: No tags available
-- There are 0 commits in the current branch
+- There are 9 branches
+- There are 21 tags
+- There are 169 commits in the current branch
 
 Processing "yast-you-server.git"
 --------------------------------
 (yast-you-server) INFO: Module has been discontinued
 Cloning into yast-you-server...
-warning: You appear to have cloned an empty repository.
+
 
 Checking yast-you-server...
 fatal: bad default revision 'HEAD'
-(yast-you-server) ERROR: No branches available
-(yast-you-server) WARNING: No tags available
+- There are 18 branches
+- There are 5 tags
 - There are 0 commits in the current branch
 
 Processing "yast-yxmlconv.git"
 --------------------------------
-Cloning into yast-yxmlconv...
-warning: You appear to have cloned an empty repository.
 
 Checking yast-yxmlconv...
-fatal: bad default revision 'HEAD'
-(yast-yxmlconv) ERROR: No branches available
+- There are 10 branches
 (yast-yxmlconv) WARNING: No tags available
-- There are 0 commits in the current branch
+- There are 14 commits in the current branch
 
