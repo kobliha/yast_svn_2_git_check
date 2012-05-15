@@ -1,5 +1,5 @@
 =============================================
-Tue May 15 10:50:54 CEST 2012
+Tue May 15 14:15:01 CEST 2012
 =============================================
 Processing "yast-add-on-creator.git"
 --------------------------------
@@ -477,11 +477,12 @@ Checking yast-iscsi-client...
 Processing "yast-iscsi-lio-server.git"
 --------------------------------
 Cloning into yast-iscsi-lio-server...
-warning: You appear to have cloned an empty repository.
+warning: remote HEAD refers to nonexistent ref, unable to checkout.
+
 
 Checking yast-iscsi-lio-server...
 fatal: bad default revision 'HEAD'
-(yast-iscsi-lio-server) ERROR: No branches available
+(yast-iscsi-lio-server) WARNING: Only one branch available
 (yast-iscsi-lio-server) WARNING: No tags available
 - There are 0 commits in the current branch
 
@@ -960,6 +961,15 @@ Checking yast-profile-manager...
 - There are 22 branches
 - There are 29 tags
 - There are 200 commits in the current branch
+
+Processing "yast-proxy.git"
+--------------------------------
+Cloning into yast-proxy...
+
+Checking yast-proxy...
+- There are 3 branches
+(yast-proxy) WARNING: No tags available
+- There are 7 commits in the current branch
 
 Processing "yast-python-bindings.git"
 --------------------------------
