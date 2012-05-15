@@ -1,38 +1,14 @@
 =============================================
-Wed May  9 11:38:29 CEST 2012
+Tue May 15 10:50:54 CEST 2012
 =============================================
-Processing "yast-OPENSSL.git"
---------------------------------
-(yast-OPENSSL) INFO: Module has been discontinued
-Cloning into yast-OPENSSL...
-
-
-Checking yast-OPENSSL...
-fatal: bad default revision 'HEAD'
-(yast-OPENSSL) ERROR: No branches available
-- There are 1 tags
-- There are 0 commits in the current branch
-
-Processing "yast-SLE-11-WebYaST.git"
---------------------------------
-(yast-SLE-11-WebYaST) INFO: Module has been discontinued
-Cloning into yast-SLE-11-WebYaST...
-warning: You appear to have cloned an empty repository.
-
-Checking yast-SLE-11-WebYaST...
-fatal: bad default revision 'HEAD'
-(yast-SLE-11-WebYaST) ERROR: No branches available
-(yast-SLE-11-WebYaST) WARNING: No tags available
-- There are 0 commits in the current branch
-
 Processing "yast-add-on-creator.git"
 --------------------------------
 Already up-to-date.
 
 Checking yast-add-on-creator...
 - There are 17 branches
-- There are 108 tags
-- There are 85 commits in the current branch
+- There are 109 tags
+- There are 86 commits in the current branch
 
 Processing "yast-add-on.git"
 --------------------------------
@@ -40,8 +16,8 @@ Already up-to-date.
 
 Checking yast-add-on...
 - There are 13 branches
-- There are 64 tags
-- There are 132 commits in the current branch
+- There are 65 tags
+- There are 133 commits in the current branch
 
 Processing "yast-apparmor.git"
 --------------------------------
@@ -49,8 +25,8 @@ Already up-to-date.
 
 Checking yast-apparmor...
 - There are 14 branches
-- There are 34 tags
-- There are 162 commits in the current branch
+- There are 35 tags
+- There are 163 commits in the current branch
 
 Processing "yast-audit-laf.git"
 --------------------------------
@@ -58,8 +34,8 @@ Already up-to-date.
 
 Checking yast-audit-laf...
 - There are 10 branches
-- There are 23 tags
-- There are 121 commits in the current branch
+- There are 24 tags
+- There are 125 commits in the current branch
 
 Processing "yast-autofs.git"
 --------------------------------
@@ -67,17 +43,17 @@ Already up-to-date.
 
 Checking yast-autofs...
 - There are 13 branches
-- There are 11 tags
-- There are 52 commits in the current branch
+- There are 12 tags
+- There are 53 commits in the current branch
 
 Processing "yast-autoinstallation.git"
 --------------------------------
 Already up-to-date.
 
 Checking yast-autoinstallation...
-- There are 23 branches
+- There are 24 branches
 - There are 231 tags
-- There are 1841 commits in the current branch
+- There are 1853 commits in the current branch
 
 Processing "yast-backup.git"
 --------------------------------
@@ -85,8 +61,8 @@ Already up-to-date.
 
 Checking yast-backup...
 - There are 23 branches
-- There are 60 tags
-- There are 364 commits in the current branch
+- There are 61 tags
+- There are 367 commits in the current branch
 
 Processing "yast-bluetooth.git"
 --------------------------------
@@ -116,7 +92,7 @@ Already up-to-date.
 Checking yast-bootloader...
 - There are 22 branches
 - There are 355 tags
-- There are 1590 commits in the current branch
+- There are 1608 commits in the current branch
 
 Processing "yast-branding.git"
 --------------------------------
@@ -142,8 +118,8 @@ Already up-to-date.
 
 Checking yast-ca-management...
 - There are 23 branches
-- There are 98 tags
-- There are 530 commits in the current branch
+- There are 99 tags
+- There are 532 commits in the current branch
 
 Processing "yast-cd-creator.git"
 --------------------------------
@@ -176,7 +152,7 @@ Already up-to-date.
 Checking yast-cim...
 - There are 22 branches
 - There are 9 tags
-- There are 30 commits in the current branch
+- There are 31 commits in the current branch
 
 Processing "yast-cluster.git"
 --------------------------------
@@ -185,7 +161,7 @@ Already up-to-date.
 Checking yast-cluster...
 - There are 9 branches
 - There are 1 tags
-- There are 39 commits in the current branch
+- There are 40 commits in the current branch
 
 Processing "yast-control-center-gnome.git"
 --------------------------------
@@ -203,7 +179,7 @@ Already up-to-date.
 Checking yast-control-center...
 - There are 22 branches
 - There are 44 tags
-- There are 70 commits in the current branch
+- There are 72 commits in the current branch
 
 Processing "yast-core.git"
 --------------------------------
@@ -211,8 +187,8 @@ Already up-to-date.
 
 Checking yast-core...
 - There are 23 branches
-- There are 188 tags
-- There are 2436 commits in the current branch
+- There are 190 tags
+- There are 2445 commits in the current branch
 
 Processing "yast-country.git"
 --------------------------------
@@ -220,8 +196,8 @@ Already up-to-date.
 
 Checking yast-country...
 - There are 23 branches
-- There are 277 tags
-- There are 705 commits in the current branch
+- There are 278 tags
+- There are 706 commits in the current branch
 
 Processing "yast-databackup.git"
 --------------------------------
@@ -232,18 +208,6 @@ Checking yast-databackup...
 - There are 1 tags
 - There are 1 commits in the current branch
 
-Processing "yast-db2.git"
---------------------------------
-(yast-db2) INFO: Module has been discontinued
-Cloning into yast-db2...
-
-
-Checking yast-db2...
-fatal: bad default revision 'HEAD'
-(yast-db2) ERROR: No branches available
-- There are 1 tags
-- There are 0 commits in the current branch
-
 Processing "yast-dbus-client.git"
 --------------------------------
 Already up-to-date.
@@ -251,7 +215,7 @@ Already up-to-date.
 Checking yast-dbus-client...
 - There are 8 branches
 - There are 4 tags
-- There are 9 commits in the current branch
+- There are 10 commits in the current branch
 
 Processing "yast-dbus-server.git"
 --------------------------------
@@ -259,8 +223,8 @@ Already up-to-date.
 
 Checking yast-dbus-server...
 - There are 9 branches
-- There are 9 tags
-- There are 26 commits in the current branch
+- There are 10 tags
+- There are 28 commits in the current branch
 
 Processing "yast-debugger.git"
 --------------------------------
@@ -280,8 +244,8 @@ Already up-to-date.
 
 Checking yast-devtools...
 - There are 23 branches
-- There are 85 tags
-- There are 1000 commits in the current branch
+- There are 86 tags
+- There are 1003 commits in the current branch
 
 Processing "yast-dhcp-server.git"
 --------------------------------
@@ -289,8 +253,8 @@ Already up-to-date.
 
 Checking yast-dhcp-server...
 - There are 23 branches
-- There are 44 tags
-- There are 253 commits in the current branch
+- There are 45 tags
+- There are 255 commits in the current branch
 
 Processing "yast-dirinstall.git"
 --------------------------------
@@ -299,7 +263,7 @@ Already up-to-date.
 Checking yast-dirinstall...
 - There are 11 branches
 - There are 13 tags
-- There are 34 commits in the current branch
+- There are 35 commits in the current branch
 
 Processing "yast-dns-server.git"
 --------------------------------
@@ -307,8 +271,8 @@ Already up-to-date.
 
 Checking yast-dns-server...
 - There are 23 branches
-- There are 83 tags
-- There are 332 commits in the current branch
+- There are 89 tags
+- There are 340 commits in the current branch
 
 Processing "yast-doc.git"
 --------------------------------
@@ -317,7 +281,7 @@ Already up-to-date.
 Checking yast-doc...
 - There are 10 branches
 (yast-doc) WARNING: No tags available
-- There are 33 commits in the current branch
+- There are 34 commits in the current branch
 
 Processing "yast-drbd.git"
 --------------------------------
@@ -326,7 +290,7 @@ Already up-to-date.
 Checking yast-drbd...
 - There are 7 branches
 (yast-drbd) WARNING: No tags available
-- There are 5 commits in the current branch
+- There are 6 commits in the current branch
 
 Processing "yast-extra-packages.git"
 --------------------------------
@@ -351,26 +315,14 @@ fatal: bad default revision 'HEAD'
 - There are 2 tags
 - There are 0 commits in the current branch
 
-Processing "yast-faxserver.git"
---------------------------------
-(yast-faxserver) INFO: Module has been discontinued
-Cloning into yast-faxserver...
-
-
-Checking yast-faxserver...
-fatal: bad default revision 'HEAD'
-(yast-faxserver) ERROR: No branches available
-- There are 1 tags
-- There are 0 commits in the current branch
-
 Processing "yast-fcoe-client.git"
 --------------------------------
 Already up-to-date.
 
 Checking yast-fcoe-client...
 - There are 5 branches
-- There are 40 tags
-- There are 131 commits in the current branch
+- There are 41 tags
+- There are 136 commits in the current branch
 
 Processing "yast-fingerprint-reader.git"
 --------------------------------
@@ -378,8 +330,8 @@ Already up-to-date.
 
 Checking yast-fingerprint-reader...
 - There are 16 branches
-- There are 33 tags
-- There are 67 commits in the current branch
+- There are 36 tags
+- There are 70 commits in the current branch
 
 Processing "yast-firewall.git"
 --------------------------------
@@ -388,19 +340,7 @@ Already up-to-date.
 Checking yast-firewall...
 - There are 23 branches
 - There are 65 tags
-- There are 355 commits in the current branch
-
-Processing "yast-firewallcd-admin.git"
---------------------------------
-(yast-firewallcd-admin) INFO: Module has been discontinued
-Cloning into yast-firewallcd-admin...
-
-
-Checking yast-firewallcd-admin...
-fatal: bad default revision 'HEAD'
-(yast-firewallcd-admin) ERROR: No branches available
-- There are 2 tags
-- There are 0 commits in the current branch
+- There are 356 commits in the current branch
 
 Processing "yast-firstboot.git"
 --------------------------------
@@ -408,8 +348,8 @@ Already up-to-date.
 
 Checking yast-firstboot...
 - There are 22 branches
-- There are 69 tags
-- There are 116 commits in the current branch
+- There are 70 tags
+- There are 118 commits in the current branch
 
 Processing "yast-ftp-server.git"
 --------------------------------
@@ -417,8 +357,8 @@ Already up-to-date.
 
 Checking yast-ftp-server...
 - There are 13 branches
-- There are 25 tags
-- There are 86 commits in the current branch
+- There are 26 tags
+- There are 89 commits in the current branch
 
 Processing "yast-gtk.git"
 --------------------------------
@@ -427,7 +367,7 @@ Already up-to-date.
 Checking yast-gtk...
 - There are 13 branches
 - There are 157 tags
-- There are 1402 commits in the current branch
+- There are 1414 commits in the current branch
 
 Processing "yast-hardware-detection.git"
 --------------------------------
@@ -435,8 +375,8 @@ Already up-to-date.
 
 Checking yast-hardware-detection...
 - There are 20 branches
-- There are 24 tags
-- There are 58 commits in the current branch
+- There are 25 tags
+- There are 60 commits in the current branch
 
 Processing "yast-heartbeat.git"
 --------------------------------
@@ -445,7 +385,7 @@ Already up-to-date.
 Checking yast-heartbeat...
 - There are 22 branches
 - There are 21 tags
-- There are 70 commits in the current branch
+- There are 71 commits in the current branch
 
 Processing "yast-hpc.git"
 --------------------------------
@@ -465,8 +405,8 @@ Already up-to-date.
 
 Checking yast-http-server...
 - There are 23 branches
-- There are 116 tags
-- There are 440 commits in the current branch
+- There are 117 tags
+- There are 442 commits in the current branch
 
 Processing "yast-inetd.git"
 --------------------------------
@@ -475,19 +415,7 @@ Already up-to-date.
 Checking yast-inetd...
 - There are 22 branches
 - There are 38 tags
-- There are 415 commits in the current branch
-
-Processing "yast-installation-sources.git"
---------------------------------
-(yast-installation-sources) INFO: Module has been discontinued
-Cloning into yast-installation-sources...
-
-
-Checking yast-installation-sources...
-fatal: bad default revision 'HEAD'
-(yast-installation-sources) ERROR: No branches available
-- There are 1 tags
-- There are 0 commits in the current branch
+- There are 416 commits in the current branch
 
 Processing "yast-installation.git"
 --------------------------------
@@ -495,20 +423,8 @@ Already up-to-date.
 
 Checking yast-installation...
 - There are 23 branches
-- There are 545 tags
-- There are 2700 commits in the current branch
-
-Processing "yast-installer.git"
---------------------------------
-(yast-installer) INFO: Module has been discontinued
-Cloning into yast-installer...
-warning: You appear to have cloned an empty repository.
-
-Checking yast-installer...
-fatal: bad default revision 'HEAD'
-(yast-installer) ERROR: No branches available
-(yast-installer) WARNING: No tags available
-- There are 0 commits in the current branch
+- There are 547 tags
+- There are 2706 commits in the current branch
 
 Processing "yast-instserver.git"
 --------------------------------
@@ -517,7 +433,16 @@ Already up-to-date.
 Checking yast-instserver...
 - There are 22 branches
 - There are 56 tags
-- There are 130 commits in the current branch
+- There are 131 commits in the current branch
+
+Processing "yast-iplb.git"
+--------------------------------
+Already up-to-date.
+
+Checking yast-iplb...
+- There are 3 branches
+(yast-iplb) WARNING: No tags available
+- There are 1 commits in the current branch
 
 Processing "yast-ipsec.git"
 --------------------------------
@@ -546,8 +471,19 @@ Already up-to-date.
 
 Checking yast-iscsi-client...
 - There are 21 branches
-- There are 143 tags
-- There are 182 commits in the current branch
+- There are 145 tags
+- There are 191 commits in the current branch
+
+Processing "yast-iscsi-lio-server.git"
+--------------------------------
+Cloning into yast-iscsi-lio-server...
+warning: You appear to have cloned an empty repository.
+
+Checking yast-iscsi-lio-server...
+fatal: bad default revision 'HEAD'
+(yast-iscsi-lio-server) ERROR: No branches available
+(yast-iscsi-lio-server) WARNING: No tags available
+- There are 0 commits in the current branch
 
 Processing "yast-iscsi-server.git"
 --------------------------------
@@ -555,8 +491,8 @@ Already up-to-date.
 
 Checking yast-iscsi-server...
 - There are 21 branches
-- There are 54 tags
-- There are 124 commits in the current branch
+- There are 55 tags
+- There are 127 commits in the current branch
 
 Processing "yast-isns.git"
 --------------------------------
@@ -565,7 +501,7 @@ Already up-to-date.
 Checking yast-isns...
 - There are 13 branches
 - There are 11 tags
-- There are 21 commits in the current branch
+- There are 23 commits in the current branch
 
 Processing "yast-kdump.git"
 --------------------------------
@@ -574,7 +510,7 @@ Already up-to-date.
 Checking yast-kdump...
 - There are 15 branches
 - There are 42 tags
-- There are 106 commits in the current branch
+- There are 107 commits in the current branch
 
 Processing "yast-kerberos-client.git"
 --------------------------------
@@ -582,8 +518,8 @@ Already up-to-date.
 
 Checking yast-kerberos-client...
 - There are 23 branches
-- There are 86 tags
-- There are 200 commits in the current branch
+- There are 87 tags
+- There are 201 commits in the current branch
 
 Processing "yast-kerberos-server.git"
 --------------------------------
@@ -592,7 +528,7 @@ Already up-to-date.
 Checking yast-kerberos-server...
 - There are 12 branches
 - There are 26 tags
-- There are 76 commits in the current branch
+- There are 77 commits in the current branch
 
 Processing "yast-ldap-client.git"
 --------------------------------
@@ -600,8 +536,8 @@ Already up-to-date.
 
 Checking yast-ldap-client...
 - There are 23 branches
-- There are 173 tags
-- There are 403 commits in the current branch
+- There are 175 tags
+- There are 408 commits in the current branch
 
 Processing "yast-ldap-server.git"
 --------------------------------
@@ -609,8 +545,8 @@ Already up-to-date.
 
 Checking yast-ldap-server...
 - There are 23 branches
-- There are 79 tags
-- There are 741 commits in the current branch
+- There are 81 tags
+- There are 744 commits in the current branch
 
 Processing "yast-ldap.git"
 --------------------------------
@@ -618,8 +554,8 @@ Already up-to-date.
 
 Checking yast-ldap...
 - There are 23 branches
-- There are 30 tags
-- There are 83 commits in the current branch
+- There are 32 tags
+- There are 85 commits in the current branch
 
 Processing "yast-liby2util.git"
 --------------------------------
@@ -647,9 +583,9 @@ Processing "yast-libyui.git"
 Already up-to-date.
 
 Checking yast-libyui...
-- There are 9 branches
+- There are 10 branches
 - There are 27 tags
-- There are 159 commits in the current branch
+- There are 162 commits in the current branch
 
 Processing "yast-live-installer.git"
 --------------------------------
@@ -658,7 +594,16 @@ Already up-to-date.
 Checking yast-live-installer...
 - There are 11 branches
 - There are 42 tags
-- There are 81 commits in the current branch
+- There are 82 commits in the current branch
+
+Processing "yast-lxc.git"
+--------------------------------
+Already up-to-date.
+
+Checking yast-lxc...
+- There are 4 branches
+- There are 3 tags
+- There are 3 commits in the current branch
 
 Processing "yast-mail-server.git"
 --------------------------------
@@ -679,7 +624,7 @@ Already up-to-date.
 Checking yast-mail...
 - There are 23 branches
 - There are 62 tags
-- There are 540 commits in the current branch
+- There are 541 commits in the current branch
 
 Processing "yast-metapackage.git"
 --------------------------------
@@ -688,7 +633,7 @@ Already up-to-date.
 Checking yast-metapackage...
 - There are 12 branches
 - There are 18 tags
-- There are 107 commits in the current branch
+- There are 108 commits in the current branch
 
 Processing "yast-modules.git"
 --------------------------------
@@ -717,7 +662,7 @@ Already up-to-date.
 Checking yast-multipath...
 - There are 9 branches
 - There are 3 tags
-- There are 27 commits in the current branch
+- There are 28 commits in the current branch
 
 Processing "yast-mysql-server.git"
 --------------------------------
@@ -730,11 +675,12 @@ Checking yast-mysql-server...
 
 Processing "yast-ncurses-pkg.git"
 --------------------------------
+Already up-to-date.
 
 Checking yast-ncurses-pkg...
 - There are 10 branches
-- There are 49 tags
-- There are 215 commits in the current branch
+- There are 57 tags
+- There are 244 commits in the current branch
 
 Processing "yast-ncurses.git"
 --------------------------------
@@ -742,68 +688,62 @@ Already up-to-date.
 
 Checking yast-ncurses...
 - There are 23 branches
-- There are 188 tags
-- There are 1381 commits in the current branch
+- There are 192 tags
+- There are 1388 commits in the current branch
 
 Processing "yast-network.git"
 --------------------------------
+Already up-to-date.
 
 Checking yast-network...
 - There are 22 branches
-- There are 595 tags
-- There are 2035 commits in the current branch
+- There are 596 tags
+- There are 2047 commits in the current branch
 
 Processing "yast-nfs-client.git"
 --------------------------------
+Already up-to-date.
 
 Checking yast-nfs-client...
 - There are 22 branches
-- There are 42 tags
-- There are 342 commits in the current branch
+- There are 43 tags
+- There are 344 commits in the current branch
 
 Processing "yast-nfs-server.git"
 --------------------------------
+Already up-to-date.
 
 Checking yast-nfs-server...
 - There are 21 branches
-- There are 38 tags
-- There are 293 commits in the current branch
-
-Processing "yast-nfscim.git"
---------------------------------
-(yast-nfscim) INFO: Module has been discontinued
-Cloning into yast-nfscim...
-warning: You appear to have cloned an empty repository.
-
-Checking yast-nfscim...
-fatal: bad default revision 'HEAD'
-(yast-nfscim) ERROR: No branches available
-(yast-nfscim) WARNING: No tags available
-- There are 0 commits in the current branch
+- There are 39 tags
+- There are 296 commits in the current branch
 
 Processing "yast-nis-client.git"
 --------------------------------
+Already up-to-date.
 
 Checking yast-nis-client...
 - There are 21 branches
-- There are 53 tags
-- There are 406 commits in the current branch
+- There are 55 tags
+- There are 408 commits in the current branch
 
 Processing "yast-nis-server.git"
 --------------------------------
+Already up-to-date.
 
 Checking yast-nis-server...
 - There are 21 branches
 - There are 35 tags
-- There are 339 commits in the current branch
+- There are 340 commits in the current branch
 
 Processing "yast-ntp-client.git"
 --------------------------------
+Already up-to-date.
 
 Checking yast-ntp-client...
 - There are 22 branches
 - There are 76 tags
-- There are 345 commits in the current branch
+- There are 346 commits in the current branch
 
 Processing "yast-ntsutils.git"
 --------------------------------
@@ -831,6 +771,7 @@ fatal: bad default revision 'HEAD'
 
 Processing "yast-online-update-configuration.git"
 --------------------------------
+Already up-to-date.
 
 Checking yast-online-update-configuration...
 - There are 5 branches
@@ -851,11 +792,12 @@ fatal: bad default revision 'HEAD'
 
 Processing "yast-online-update.git"
 --------------------------------
+Already up-to-date.
 
 Checking yast-online-update...
 - There are 21 branches
-- There are 180 tags
-- There are 738 commits in the current branch
+- There are 182 tags
+- There are 740 commits in the current branch
 
 Processing "yast-openschool.git"
 --------------------------------
@@ -895,11 +837,12 @@ fatal: bad default revision 'HEAD'
 
 Processing "yast-openwsman-yast.git"
 --------------------------------
+Already up-to-date.
 
 Checking yast-openwsman-yast...
 - There are 10 branches
 (yast-openwsman-yast) WARNING: No tags available
-- There are 27 commits in the current branch
+- There are 28 commits in the current branch
 
 Processing "yast-packagemanager-test.git"
 --------------------------------
@@ -927,14 +870,16 @@ fatal: bad default revision 'HEAD'
 
 Processing "yast-packager.git"
 --------------------------------
+Already up-to-date.
 
 Checking yast-packager...
 - There are 22 branches
-- There are 552 tags
-- There are 2243 commits in the current branch
+- There are 556 tags
+- There are 2248 commits in the current branch
 
 Processing "yast-pam.git"
 --------------------------------
+Already up-to-date.
 
 Checking yast-pam...
 - There are 22 branches
@@ -943,27 +888,30 @@ Checking yast-pam...
 
 Processing "yast-perl-bindings.git"
 --------------------------------
+Already up-to-date.
 
 Checking yast-perl-bindings...
 - There are 21 branches
 - There are 39 tags
-- There are 250 commits in the current branch
+- There are 254 commits in the current branch
 
 Processing "yast-phone-services.git"
 --------------------------------
+Already up-to-date.
 
 Checking yast-phone-services...
 - There are 21 branches
-- There are 12 tags
-- There are 109 commits in the current branch
+- There are 13 tags
+- There are 110 commits in the current branch
 
 Processing "yast-pkg-bindings.git"
 --------------------------------
+Already up-to-date.
 
 Checking yast-pkg-bindings...
 - There are 22 branches
-- There are 334 tags
-- There are 736 commits in the current branch
+- There are 338 tags
+- There are 744 commits in the current branch
 
 Processing "yast-pos-installation.git"
 --------------------------------
@@ -979,63 +927,57 @@ fatal: bad default revision 'HEAD'
 
 Processing "yast-power-management.git"
 --------------------------------
+Already up-to-date.
 
 Checking yast-power-management...
 - There are 19 branches
 - There are 38 tags
-- There are 141 commits in the current branch
+- There are 142 commits in the current branch
 
 Processing "yast-printer.git"
 --------------------------------
+Already up-to-date.
 
 Checking yast-printer...
 - There are 21 branches
 - There are 207 tags
-- There are 210 commits in the current branch
-
-Processing "yast-printerdb.git"
---------------------------------
-(yast-printerdb) INFO: Module has been discontinued
-Cloning into yast-printerdb...
-
-
-Checking yast-printerdb...
-fatal: bad default revision 'HEAD'
-(yast-printerdb) ERROR: No branches available
-- There are 1 tags
-- There are 0 commits in the current branch
+- There are 217 commits in the current branch
 
 Processing "yast-product-creator.git"
 --------------------------------
+Already up-to-date.
 
 Checking yast-product-creator...
 - There are 15 branches
-- There are 159 tags
-- There are 188 commits in the current branch
+- There are 167 tags
+- There are 192 commits in the current branch
 
 Processing "yast-profile-manager.git"
 --------------------------------
+Already up-to-date.
 
 Checking yast-profile-manager...
 - There are 22 branches
-- There are 27 tags
-- There are 197 commits in the current branch
+- There are 29 tags
+- There are 200 commits in the current branch
 
 Processing "yast-python-bindings.git"
 --------------------------------
+Already up-to-date.
 
 Checking yast-python-bindings...
 - There are 13 branches
 - There are 18 tags
-- There are 81 commits in the current branch
+- There are 83 commits in the current branch
 
 Processing "yast-qt-graph.git"
 --------------------------------
+Already up-to-date.
 
 Checking yast-qt-graph...
 - There are 6 branches
 (yast-qt-graph) WARNING: No tags available
-- There are 68 commits in the current branch
+- There are 69 commits in the current branch
 
 Processing "yast-qt-pkg.git"
 --------------------------------
@@ -1050,23 +992,12 @@ fatal: bad default revision 'HEAD'
 
 Processing "yast-qt.git"
 --------------------------------
+Already up-to-date.
 
 Checking yast-qt...
 - There are 22 branches
 - There are 129 tags
-- There are 449 commits in the current branch
-
-Processing "yast-qt3.git"
---------------------------------
-(yast-qt3) INFO: Module has been discontinued
-Cloning into yast-qt3...
-warning: You appear to have cloned an empty repository.
-
-Checking yast-qt3...
-fatal: bad default revision 'HEAD'
-(yast-qt3) ERROR: No branches available
-(yast-qt3) WARNING: No tags available
-- There are 0 commits in the current branch
+- There are 453 commits in the current branch
 
 Processing "yast-rdp.git"
 --------------------------------
@@ -1077,7 +1008,7 @@ Cloning into yast-rdp...
 Checking yast-rdp...
 fatal: bad default revision 'HEAD'
 - There are 2 branches
-- There are 2 tags
+- There are 3 tags
 - There are 0 commits in the current branch
 
 Processing "yast-registration.git"
@@ -1087,15 +1018,16 @@ Already up-to-date.
 Checking yast-registration...
 - There are 17 branches
 - There are 90 tags
-- There are 162 commits in the current branch
+- There are 164 commits in the current branch
 
 Processing "yast-reipl.git"
 --------------------------------
+Already up-to-date.
 
 Checking yast-reipl...
 - There are 10 branches
 - There are 10 tags
-- There are 35 commits in the current branch
+- There are 36 commits in the current branch
 
 Processing "yast-repair.git"
 --------------------------------
@@ -1111,87 +1043,84 @@ fatal: bad default revision 'HEAD'
 
 Processing "yast-restore.git"
 --------------------------------
+Already up-to-date.
 
 Checking yast-restore...
 - There are 22 branches
 - There are 34 tags
-- There are 160 commits in the current branch
+- There are 161 commits in the current branch
 
 Processing "yast-ruby-bindings.git"
 --------------------------------
+Already up-to-date.
 
 Checking yast-ruby-bindings...
 - There are 10 branches
 - There are 1 tags
-- There are 87 commits in the current branch
-
-Processing "yast-rules.git"
---------------------------------
-(yast-rules) INFO: Module has been discontinued
-Cloning into yast-rules...
-warning: You appear to have cloned an empty repository.
-
-Checking yast-rules...
-fatal: bad default revision 'HEAD'
-(yast-rules) ERROR: No branches available
-(yast-rules) WARNING: No tags available
-- There are 0 commits in the current branch
+- There are 95 commits in the current branch
 
 Processing "yast-runlevel.git"
 --------------------------------
+Already up-to-date.
 
 Checking yast-runlevel...
 - There are 22 branches
 - There are 53 tags
-- There are 348 commits in the current branch
+- There are 349 commits in the current branch
 
 Processing "yast-s390.git"
 --------------------------------
+Already up-to-date.
 
 Checking yast-s390...
 - There are 22 branches
 - There are 87 tags
-- There are 200 commits in the current branch
+- There are 206 commits in the current branch
 
 Processing "yast-samba-client.git"
 --------------------------------
+Already up-to-date.
 
 Checking yast-samba-client...
 - There are 22 branches
-- There are 142 tags
-- There are 237 commits in the current branch
+- There are 143 tags
+- There are 238 commits in the current branch
 
 Processing "yast-samba-server.git"
 --------------------------------
+Already up-to-date.
 
 Checking yast-samba-server...
 - There are 21 branches
-- There are 91 tags
-- There are 285 commits in the current branch
+- There are 94 tags
+- There are 288 commits in the current branch
 
 Processing "yast-scanner.git"
 --------------------------------
+Already up-to-date.
 
 Checking yast-scanner...
 - There are 21 branches
 - There are 81 tags
-- There are 547 commits in the current branch
+- There are 549 commits in the current branch
 
 Processing "yast-schema.git"
 --------------------------------
+Already up-to-date.
 
 Checking yast-schema...
 - There are 22 branches
 - There are 21 tags
-- There are 41 commits in the current branch
+- There are 44 commits in the current branch
 
 Processing "yast-security.git"
 --------------------------------
+Already up-to-date.
 
 Checking yast-security...
 - There are 22 branches
-- There are 58 tags
-- There are 364 commits in the current branch
+- There are 61 tags
+- There are 367 commits in the current branch
 
 Processing "yast-slepos-image-builder.git"
 --------------------------------
@@ -1219,6 +1148,7 @@ fatal: bad default revision 'HEAD'
 
 Processing "yast-slide-show.git"
 --------------------------------
+Already up-to-date.
 
 Checking yast-slide-show...
 - There are 22 branches
@@ -1227,6 +1157,7 @@ Checking yast-slide-show...
 
 Processing "yast-slp-server.git"
 --------------------------------
+Already up-to-date.
 
 Checking yast-slp-server...
 - There are 19 branches
@@ -1239,32 +1170,35 @@ Already up-to-date.
 
 Checking yast-slp...
 - There are 22 branches
-- There are 14 tags
-- There are 64 commits in the current branch
+- There are 15 tags
+- There are 67 commits in the current branch
 
 Processing "yast-snapper.git"
 --------------------------------
+Already up-to-date.
 
 Checking yast-snapper...
 - There are 4 branches
-- There are 35 tags
-- There are 49 commits in the current branch
+- There are 36 tags
+- There are 50 commits in the current branch
 
 Processing "yast-sound.git"
 --------------------------------
+Already up-to-date.
 
 Checking yast-sound...
 - There are 22 branches
-- There are 108 tags
-- There are 765 commits in the current branch
+- There are 112 tags
+- There are 770 commits in the current branch
 
 Processing "yast-squid.git"
 --------------------------------
+Already up-to-date.
 
 Checking yast-squid...
 - There are 10 branches
 - There are 24 tags
-- There are 81 commits in the current branch
+- There are 82 commits in the current branch
 
 Processing "yast-squidguard.git"
 --------------------------------
@@ -1280,51 +1214,57 @@ fatal: bad default revision 'HEAD'
 
 Processing "yast-sshd.git"
 --------------------------------
+Already up-to-date.
 
 Checking yast-sshd...
 - There are 10 branches
 - There are 16 tags
-- There are 37 commits in the current branch
+- There are 39 commits in the current branch
 
 Processing "yast-storage.git"
 --------------------------------
+Already up-to-date.
 
 Checking yast-storage...
-- There are 21 branches
-- There are 387 tags
-- There are 3332 commits in the current branch
+- There are 23 branches
+- There are 389 tags
+- There are 3351 commits in the current branch
 
 Processing "yast-sudo.git"
 --------------------------------
+Already up-to-date.
 
 Checking yast-sudo...
 - There are 13 branches
-- There are 18 tags
-- There are 68 commits in the current branch
+- There are 19 tags
+- There are 69 commits in the current branch
 
 Processing "yast-support.git"
 --------------------------------
+Already up-to-date.
 
 Checking yast-support...
 - There are 21 branches
 - There are 49 tags
-- There are 45 commits in the current branch
+- There are 46 commits in the current branch
 
 Processing "yast-sysconfig.git"
 --------------------------------
+Already up-to-date.
 
 Checking yast-sysconfig...
 - There are 21 branches
-- There are 26 tags
-- There are 280 commits in the current branch
+- There are 27 tags
+- There are 282 commits in the current branch
 
 Processing "yast-system-profile.git"
 --------------------------------
+Already up-to-date.
 
 Checking yast-system-profile...
 - There are 8 branches
 - There are 4 tags
-- There are 18 commits in the current branch
+- There are 19 commits in the current branch
 
 Processing "yast-system-update.git"
 --------------------------------
@@ -1340,6 +1280,7 @@ fatal: bad default revision 'HEAD'
 
 Processing "yast-testsuite.git"
 --------------------------------
+Already up-to-date.
 
 Checking yast-testsuite...
 - There are 22 branches
@@ -1348,26 +1289,16 @@ Checking yast-testsuite...
 
 Processing "yast-tftp-server.git"
 --------------------------------
+Already up-to-date.
 
 Checking yast-tftp-server...
 - There are 21 branches
 - There are 20 tags
-- There are 76 commits in the current branch
-
-Processing "yast-theme-ul.git"
---------------------------------
-(yast-theme-ul) INFO: Module has been discontinued
-Cloning into yast-theme-ul...
-
-
-Checking yast-theme-ul...
-fatal: bad default revision 'HEAD'
-(yast-theme-ul) ERROR: No branches available
-- There are 1 tags
-- There are 0 commits in the current branch
+- There are 77 commits in the current branch
 
 Processing "yast-theme.git"
 --------------------------------
+Already up-to-date.
 
 Checking yast-theme...
 - There are 22 branches
@@ -1376,30 +1307,34 @@ Checking yast-theme...
 
 Processing "yast-transfer.git"
 --------------------------------
+Already up-to-date.
 
 Checking yast-transfer...
 - There are 22 branches
 - There are 11 tags
-- There are 81 commits in the current branch
+- There are 83 commits in the current branch
 
 Processing "yast-tune.git"
 --------------------------------
+Already up-to-date.
 
 Checking yast-tune...
 - There are 21 branches
-- There are 51 tags
-- There are 254 commits in the current branch
+- There are 52 tags
+- There are 256 commits in the current branch
 
 Processing "yast-tv.git"
 --------------------------------
+Already up-to-date.
 
 Checking yast-tv...
 - There are 21 branches
 - There are 58 tags
-- There are 248 commits in the current branch
+- There are 249 commits in the current branch
 
 Processing "yast-ui_qt_tests.git"
 --------------------------------
+Already up-to-date.
 
 Checking yast-ui_qt_tests...
 - There are 3 branches
@@ -1420,6 +1355,7 @@ fatal: bad default revision 'HEAD'
 
 Processing "yast-update.git"
 --------------------------------
+Already up-to-date.
 
 Checking yast-update...
 - There are 22 branches
@@ -1428,127 +1364,48 @@ Checking yast-update...
 
 Processing "yast-users.git"
 --------------------------------
+Already up-to-date.
 
 Checking yast-users...
 - There are 22 branches
-- There are 277 tags
-- There are 1006 commits in the current branch
+- There are 279 tags
+- There are 1010 commits in the current branch
 
 Processing "yast-vm.git"
 --------------------------------
+Already up-to-date.
 
 Checking yast-vm...
 - There are 21 branches
 - There are 120 tags
-- There are 158 commits in the current branch
+- There are 159 commits in the current branch
 
 Processing "yast-wagon.git"
 --------------------------------
+Already up-to-date.
 
 Checking yast-wagon...
 - There are 9 branches
-- There are 50 tags
-- There are 109 commits in the current branch
-
-Processing "yast-watcher.git"
---------------------------------
-(yast-watcher) INFO: Module has been discontinued
-Cloning into yast-watcher...
-
-
-Checking yast-watcher...
-fatal: bad default revision 'HEAD'
-(yast-watcher) ERROR: No branches available
-- There are 1 tags
-- There are 0 commits in the current branch
-
-Processing "yast-web-rails.git"
---------------------------------
-(yast-web-rails) INFO: Module has been discontinued
-Cloning into yast-web-rails...
-warning: You appear to have cloned an empty repository.
-
-Checking yast-web-rails...
-fatal: bad default revision 'HEAD'
-(yast-web-rails) ERROR: No branches available
-(yast-web-rails) WARNING: No tags available
-- There are 0 commits in the current branch
-
-Processing "yast-web-service.git"
---------------------------------
-(yast-web-service) INFO: Module has been discontinued
-Cloning into yast-web-service...
-warning: You appear to have cloned an empty repository.
-
-Checking yast-web-service...
-fatal: bad default revision 'HEAD'
-(yast-web-service) ERROR: No branches available
-(yast-web-service) WARNING: No tags available
-- There are 0 commits in the current branch
-
-Processing "yast-web-wt.git"
---------------------------------
-(yast-web-wt) INFO: Module has been discontinued
-Cloning into yast-web-wt...
-warning: You appear to have cloned an empty repository.
-
-Checking yast-web-wt...
-fatal: bad default revision 'HEAD'
-(yast-web-wt) ERROR: No branches available
-(yast-web-wt) WARNING: No tags available
-- There are 0 commits in the current branch
-
-Processing "yast-wlanipsecclient.git"
---------------------------------
-(yast-wlanipsecclient) INFO: Module has been discontinued
-Cloning into yast-wlanipsecclient...
-
-
-Checking yast-wlanipsecclient...
-fatal: bad default revision 'HEAD'
-(yast-wlanipsecclient) ERROR: No branches available
-- There are 1 tags
-- There are 0 commits in the current branch
+- There are 53 tags
+- There are 112 commits in the current branch
 
 Processing "yast-x11.git"
 --------------------------------
+Already up-to-date.
 
 Checking yast-x11...
-- There are 21 branches
-- There are 43 tags
-- There are 397 commits in the current branch
-
-Processing "yast-x11.sav.git"
---------------------------------
-(yast-x11.sav) INFO: Module has been discontinued
-Cloning into yast-x11.sav...
-warning: You appear to have cloned an empty repository.
-
-Checking yast-x11.sav...
-fatal: bad default revision 'HEAD'
-(yast-x11.sav) ERROR: No branches available
-(yast-x11.sav) WARNING: No tags available
-- There are 0 commits in the current branch
+- There are 22 branches
+- There are 45 tags
+- There are 6 commits in the current branch
 
 Processing "yast-xml.git"
 --------------------------------
+Already up-to-date.
 
 Checking yast-xml...
 - There are 21 branches
 - There are 13 tags
 - There are 100 commits in the current branch
-
-Processing "yast-y2khtml.git"
---------------------------------
-(yast-y2khtml) INFO: Module has been discontinued
-Cloning into yast-y2khtml...
-
-
-Checking yast-y2khtml...
-fatal: bad default revision 'HEAD'
-(yast-y2khtml) ERROR: No branches available
-- There are 1 tags
-- There are 0 commits in the current branch
 
 Processing "yast-y2pmsh.git"
 --------------------------------
@@ -1564,19 +1421,21 @@ fatal: bad default revision 'HEAD'
 
 Processing "yast-yast2.git"
 --------------------------------
+Already up-to-date.
 
 Checking yast-yast2...
 - There are 22 branches
-- There are 489 tags
-- There are 2509 commits in the current branch
+- There are 492 tags
+- There are 2516 commits in the current branch
 
 Processing "yast-ycp-ui-bindings.git"
 --------------------------------
+Already up-to-date.
 
 Checking yast-ycp-ui-bindings...
 - There are 9 branches
-- There are 21 tags
-- There are 169 commits in the current branch
+- There are 22 tags
+- There are 176 commits in the current branch
 
 Processing "yast-you-server.git"
 --------------------------------
@@ -1592,6 +1451,7 @@ fatal: bad default revision 'HEAD'
 
 Processing "yast-yxmlconv.git"
 --------------------------------
+Already up-to-date.
 
 Checking yast-yxmlconv...
 - There are 10 branches
