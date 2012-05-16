@@ -1,5 +1,5 @@
 =============================================
-Tue May 15 14:15:01 CEST 2012
+Wed May 16 15:17:48 CEST 2012
 =============================================
 Processing "yast-add-on-creator.git"
 --------------------------------
@@ -964,7 +964,7 @@ Checking yast-profile-manager...
 
 Processing "yast-proxy.git"
 --------------------------------
-Cloning into yast-proxy...
+Already up-to-date.
 
 Checking yast-proxy...
 - There are 3 branches
