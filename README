@@ -5,3 +5,4 @@ last.log is created using
     echo -n > last.log; ./check_yast_git_status.sh 1>>last.log 2>>last.log
 
 BTW, the current checkout is about 2+ GB in total
+
